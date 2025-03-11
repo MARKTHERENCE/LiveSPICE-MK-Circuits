@@ -8,6 +8,7 @@ Some of the circuits may be "preamp only" sections available due to the followin
  - The referenced schematic does not include the diagram for the power amp section. 
  - The tube stages use the phase inverter of the power amp to cascade more gain.
  - The power amp section is solid state-based.
+
 If any of these are the case, please refer to the schematic file for further details and instructions.
 
 # List of Circuits
