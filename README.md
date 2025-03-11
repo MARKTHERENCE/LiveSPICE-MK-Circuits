@@ -1,4 +1,6 @@
 # LiveSPICE-MK-Circuits
+![livespice-mk-circuits](https://github.com/user-attachments/assets/b2af7ccc-bb4a-4518-81c5-2767758b60af)
+
 Schematic files drawn for use with [LiveSPICE]( https://github.com/dsharlet/LiveSPICE ), developed by Dillon ([@dsharlet]( https://github.com/dsharlet ).)
 
 ## IMPORTANT!
