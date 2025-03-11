@@ -4,14 +4,14 @@
 Schematic files drawn for use with [LiveSPICE]( https://github.com/dsharlet/LiveSPICE ), developed by Dillon ([@dsharlet]( https://github.com/dsharlet ).)
 
 ## IMPORTANT!
-Some of the models may be "preamp only" sections available due to the following reasons:
+Some of the circuits may be "preamp only" sections available due to the following reasons:
  - The referenced schematic does not include the diagram for the power amp section. 
  - The tube stages use the phase inverter of the power amp to cascade more gain.
  - The power amp section is solid state-based.
 If any of these are the case, please refer to the schematic file for further details and instructions.
 
 # List of Circuits
-Models of various guitar/bass amps and FX pedals. This list may expand over time.
+Circuits of various guitar/bass amps and FX pedals. This list may expand over time.
 
  - ## Effector Pedals
    - Andromeda Natural Overdrive
