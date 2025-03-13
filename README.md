@@ -23,7 +23,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Crate Stealth GT50-H
    - Fender Metalhead MH-500
    - "Fortin Cali Mod" (assumed to be incorrect)
-   - Labs Series L5 (Preamp section only)
+   - Lab Series L5 (Preamp section only)
    - Legend Rock 'n Roll 50
    - Marshall "Jose Master Volume" mod (by Fusedbrain)
      - Derived from 1987x
