@@ -29,6 +29,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
      - Derived from 1987x
    - Marshall "Martin Golub/Dookie Mod" (by Misery Party / julio)
      - Derived from JCM800 2203 / JMP Superlead 100w
+   - Marshall Silver Jubilee 2550/2555
    - Park 1210 Rock Head
    - Pignose 7-100 preamp section
    - Selmer Treble 'n Bass 50w MKII
