@@ -4,10 +4,11 @@
 Schematic files drawn for use with [LiveSPICE]( https://github.com/dsharlet/LiveSPICE ), developed by Dillon ([@dsharlet]( https://github.com/dsharlet ).)
 
 ## IMPORTANT!
-Some of the circuits may be "preamp only" sections available due to the following reasons:
- - The referenced schematic does not include the diagram for the power amp section. 
- - The tube stages use the phase inverter of the power amp to cascade more gain.
- - The power amp section is solid state-based.
+ - Some of the circuits may be "preamp only" sections available due to the following reasons:
+   - The referenced schematic does not include the diagram for the power amp section. 
+   - The tube stages use the phase inverter of the power amp to cascade more gain.
+   - The power amp section is solid state-based.
+ - There may be some circuits that are broken down into several parts. It's a compromise I had to resort to for CPU usage. For convenience, I will note which circuits this workaround applies to.
 
 If any of these are the case, please refer to the schematic file for further details and instructions.
 
@@ -24,7 +25,11 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Fender Metalhead MH-500
    - "Fortin Cali Mod" (assumed to be incorrect)
    - Lab Series L5 (Preamp section only)
+     - Signal chain:
+       - Channel I / Channel II [Input ⊳ Tone Buffer and Multifilter] ⊳ Distortion & Master
    - Legend Rock 'n Roll 50
+     - Signal chain:
+       - 1st & 2nd Tube Stages ⊳ Phase Inverter
    - Marshall "Jose Master Volume" mod (by Fusedbrain)
      - Derived from 1987x
    - Marshall "Martin Golub/Dookie Mod" (by Misery Party / julio)
