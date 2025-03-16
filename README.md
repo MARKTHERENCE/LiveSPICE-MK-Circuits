@@ -54,4 +54,5 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
 
 ## Sound Demos
  - [Fender Metalhead MH-500]( https://youtu.be/JuXZqc2LVPo ) by me.
+ - [Martin Golub's "Green Day Dookie" Marshall mod]( https://youtu.be/Woa6odWk67s ) by me.
  - [Tube Works MosValve RT-2100]( https://youtu.be/AjsVQ49L4hQ ) by me.
