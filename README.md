@@ -44,7 +44,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Selmer Treble 'n Bass 50w MKII
    - Tube Works MosValve RT-2100
      - Signal chain:
-       - Clean Channel / Drive Channel [1st Tube Stage ⊳ 2nd Tube Stage, EQ, & Master Volume] ⊳ Output
+       - Clean Channel / Drive Channel [Input ⊳ Tube Stages  ⊳ EQ & Master Volume] ⊳ Output
    - Vox AC30C2
 
 ## Special Thanks
