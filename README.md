@@ -51,3 +51,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
  - [Emil Rohbe]( https://www.youtube.com/@Rohbemusic ) for showcasing LiveSPICE a few years back.
  - [Ed S]( https://www.youtube.com/@eds4754/ ) for some of his demos of relatively obscure amps as inspiration.
  - [Misery Party]( https://www.youtube.com/@miseryparty3726 ) / julio ([@walkingcontrad1ction]( https://www.instagram.com/walkingcontrad1ction/ ) on Instagram) for his accurate schematic of the Martin Golub/Dookie mod.
+
+## Sound Demos
+ - [Fender Metalhead MH-500]( https://youtu.be/JuXZqc2LVPo ) by me.
+ - [Tube Works MosValve RT-2100]( https://youtu.be/AjsVQ49L4hQ ) by me.
