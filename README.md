@@ -40,6 +40,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
      - Derived from JCM800 2203 / JMP Superlead 100w
    - Marshall Silver Jubilee 2550/2555
    - Park 1210 Rock Head
+   - Peavey Decade preamp section
    - Pignose 7-100 preamp section
    - Selmer Treble 'n Bass 50w MKII
    - Tube Works MosValve RT-2100
