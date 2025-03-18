@@ -21,6 +21,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
 
  - ## Effector Pedals
    - Andromeda Natural Overdrive
+   - Dan Armstrong Orange Squeezer
    - Nobels ODS-1 Overdrive
 
  - ## Guitar Amplifiers
