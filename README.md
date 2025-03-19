@@ -19,7 +19,7 @@ If any of these are the case, please refer to the schematic file for further det
 # List of Circuits
 Circuits of various guitar/bass amps and FX pedals. This list may expand over time.
 
- - ## Effector Pedals
+ - ## Pedals & Effectors
    - Andromeda Natural Overdrive
    - Dan Armstrong Orange Squeezer
    - Dan Armstrong Purple Peaker
