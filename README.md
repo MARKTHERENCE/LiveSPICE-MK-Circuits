@@ -23,6 +23,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Andromeda Natural Overdrive
    - Dan Armstrong Orange Squeezer
    - Dan Armstrong Purple Peaker
+   - Dan Armstrong Red Ranger
    - Nobels ODS-1 Overdrive
 
  - ## Guitar Amplifiers
