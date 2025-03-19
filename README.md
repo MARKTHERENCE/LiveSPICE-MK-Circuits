@@ -24,6 +24,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Dan Armstrong Orange Squeezer
    - Dan Armstrong Purple Peaker
    - Dan Armstrong Red Ranger
+   - Dan Armstrong Yellow Humper
    - Nobels ODS-1 Overdrive
 
  - ## Guitar Amplifiers
