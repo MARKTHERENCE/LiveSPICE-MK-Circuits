@@ -22,6 +22,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
  - ## Effector Pedals
    - Andromeda Natural Overdrive
    - Dan Armstrong Orange Squeezer
+   - Dan Armstrong Purple Peaker
    - Nobels ODS-1 Overdrive
 
  - ## Guitar Amplifiers
@@ -42,7 +43,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Marshall Silver Jubilee 2550/2555
    - Park 1210 Rock Head
    - Peavey Decade preamp section
-   - Pignose 7-100 preamp section
+   - ~~Pignose 7-100 preamp section~~ (faulty circuit as of 3/19/2025, currently attempting to fix this.)
    - Selmer Treble 'n Bass 50w MKII
    - Tube Works MosValve RT-2100
      - Signal chain:
