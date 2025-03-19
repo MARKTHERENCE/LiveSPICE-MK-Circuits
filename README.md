@@ -21,6 +21,8 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
 
  - ## Pedals & Effectors
    - Andromeda Natural Overdrive
+   - Dan Armstrong Blue Clipper
+   - Dan Armstrong Green Ringer
    - Dan Armstrong Orange Squeezer
    - Dan Armstrong Purple Peaker
    - Dan Armstrong Red Ranger
