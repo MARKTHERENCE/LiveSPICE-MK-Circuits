@@ -7,12 +7,12 @@ Schematic files drawn for use with [LiveSPICE]( https://github.com/dsharlet/Live
  - The amp models require more than one instance of LiveSPICE for the desired results, separated into preamp and poweramp sections.
    - For REAPER users, LiveSPICE will run in parallel, so all instances of LiveSPICE will open the same circuit. To be able to use more than one circuit across multiple instances, do the following workaround:
      - `Add FX ⊳ Right-click on "VST3: LiveSPICE (mono) ⊳ Run as... ⊳ Dedicated process` 
-
  - Some of the circuits may be "preamp only" sections available due to the following reasons:
    - The referenced schematic does not include the diagram for the power amp section. 
    - The tube stages use the phase inverter of the power amp to cascade more gain.
    - The power amp section is solid state-based.
  - There may be some circuits that are broken down into several parts. It's a compromise I had to resort to for CPU usage. For convenience, I will note which circuits this workaround applies to.
+ - May not be a regular occurence, but circuits that use dual (or more) SP3T/SP4T/SP5T switches will not work in the VST version. To compensate, they are their own separate switch controls. Please match the switch positions accordingly.
 
 If any of these are the case, please refer to the schematic file for further details and instructions.
 
