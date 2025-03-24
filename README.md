@@ -4,7 +4,8 @@
 Schematic files drawn for use with [LiveSPICE]( https://github.com/dsharlet/LiveSPICE ), developed by Dillon ([@dsharlet]( https://github.com/dsharlet ).)
 
 ## IMPORTANT!
- - The amp models require more than one instance of LiveSPICE for the desired results, separated into preamp and poweramp sections.
+ - The amp models require more than one instance of LiveSPICE for the desired results, separated into preamp and poweramp sections. This is done to prevent heavy CPU usage.
+   - For real-time usage, set Oversampling to x1 and number of iterations to 64 for preamps and 1 for poweramps.
    - For REAPER users, LiveSPICE will run in parallel, so all instances of LiveSPICE will open the same circuit. To be able to use more than one circuit across multiple instances, do the following workaround:
      - `Add FX ⊳ Right-click on "VST3: LiveSPICE (mono) ⊳ Run as... ⊳ Dedicated process` 
  - Some of the circuits may be "preamp only" sections available due to the following reasons:
@@ -29,7 +30,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Dan Armstrong Yellow Humper
    - Nobels ODS-1 Overdrive
 
- - ## Guitar Amplifiers
+ - ## Guitar & Bass Amplifiers
    - Ceriatone Marshall Plexi Super Lead "Dookie Mod"
    - Crate Stealth GT50-H
    - Diezel VH4*
