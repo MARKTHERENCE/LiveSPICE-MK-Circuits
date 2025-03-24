@@ -58,6 +58,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
      - Signal chain:
        - Clean Channel / Drive Channel [Input ⊳ Tube Stages  ⊳ EQ & Master Volume] ⊳ Output
    - Vox AC30C2
+   - Vox UL730
 
 ## Special Thanks
  - [Emil Rohbe]( https://www.youtube.com/@Rohbemusic ) for showcasing LiveSPICE a few years back.
