@@ -60,6 +60,8 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Peavey Decade preamp section
    - ~~Pignose 7-100 preamp section~~ (faulty circuit as of 3/19/2025, currently attempting to fix this.)
    - Roland DAC15
+     - Signal chain:
+       - [Gain Stages/Gain Stages + Clipper ⊳ EQ & Master Volume]
    - Selmer Treble 'n Bass 50w MKII
    - Tube Works MosValve RT-2100
      - Signal chain:
