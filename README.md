@@ -34,10 +34,13 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Nobels ODS-1 Overdrive
 
  - ## Guitar & Bass Amplifiers
+   - Ampeg VH140-C
+     - Signal chain for Channel A:
+       - [Gain Stages ⊳ EQ & Output]
    - Ceriatone Marshall Plexi Super Lead "Dookie Mod"
    - Crate Stealth GT50-H
-   - Diezel VH4*
-     - These are alleged, as VH4's are known to vary extensively. These circuits are bits and pieces that I could pick up from the source mentioned in the schematic files.
+   - Diezel VH4
+     - _These are alleged, as VH4's are known to vary extensively. These circuits are bits and pieces that I could pick up from the source mentioned in the schematic files._
    - Fender Metalhead MH-500
    - "Fortin Cali Mod" (assumed to be incorrect)
    - Lab Series L5 (Preamp section only)
