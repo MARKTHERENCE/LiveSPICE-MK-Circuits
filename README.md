@@ -36,7 +36,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
  - ## Guitar & Bass Amplifiers
    - Ampeg VH140-C
      - Signal chain for Channel A:
-       - [Gain Stages ⊳ EQ & Output]
+       - Gain Stages ⊳ EQ & Output
    - Ceriatone Marshall Plexi Super Lead "Dookie Mod"
    - Crate Stealth GT50-H
    - Diezel VH4*
@@ -58,14 +58,14 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Marshall Silver Jubilee 2550/2555
    - Marshall Valvestate 8100
      - Signal chain:
-       - [Normal / Boost ⊳ Master Volume]
+       - Normal / Boost ⊳ Master Volume
        - The Master Volume circuit is optional, but I find that it adds some subtle saturation.
    - Park 1210 Rock Head
    - Peavey Decade preamp section
    - ~~Pignose 7-100 preamp section~~ (faulty circuit as of 3/19/2025, currently attempting to fix this.)
    - Roland DAC15
      - Signal chain:
-       - [Gain Stages / Gain Stages + Clipper ⊳ EQ & Master Volume]
+       - Gain Stages / Gain Stages + Clipper ⊳ EQ & Master Volume
    - Selmer Treble 'n Bass 50w MKII
    - Tube Works MosValve RT-2100
      - Signal chain:
