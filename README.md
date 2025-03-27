@@ -27,7 +27,6 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Andromeda Natural Overdrive
    - Dan Armstrong Blue Clipper
    - Dan Armstrong Green Ringer
-   - Dan Armstrong Orange Squeezer
    - Dan Armstrong Purple Peaker
    - Dan Armstrong Red Ranger
    - Dan Armstrong Yellow Humper
@@ -43,9 +42,6 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
      - _These are alleged, as VH4's are known to vary extensively. These circuits are bits and pieces that I could pick up from the source mentioned in the schematic files._
    - Fender Metalhead MH-500
    - "Fortin Cali Mod" (assumed to be incorrect)
-   - Lab Series L5 (Preamp section only)
-     - Signal chain:
-       - Channel I / Channel II [Input ⊳ Tone Buffer and Multifilter] ⊳ Distortion & Master
    - Legend Rock 'n Roll 50
      - Signal chain:
        - 1st & 2nd Tube Stages ⊳ Phase Inverter
@@ -75,6 +71,12 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Vox UL730
    - WEM Dominator 1965
    - WEM Dominator Mk III
+  
+ - ## Removed
+   - Dan Armstrong Orange Squeezer
+     - LiveSPICE does not seem to support circuits that consist of compression and other forms of amplitude modulation.
+   - Lab Series L5
+     - The Operational transconductance amplifier used in the Distortion/Master stage of the amp is not supported in LiveSPICE
 
 ## Special Thanks
  - [Emil Rohbe]( https://www.youtube.com/@Rohbemusic ) for showcasing LiveSPICE a few years back.
