@@ -71,8 +71,8 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Vox UL730
    - WEM Dominator 1965
    - WEM Dominator Mk III
-  
- - ## Removed
+---
+ - ### Removed
    - Dan Armstrong Orange Squeezer
      - LiveSPICE does not seem to support circuits that consist of compression and other forms of amplitude modulation.
    - Lab Series L5
