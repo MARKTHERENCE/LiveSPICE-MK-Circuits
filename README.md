@@ -5,12 +5,11 @@ Schematic files drawn for use with [LiveSPICE]( https://github.com/dsharlet/Live
 
 ## IMPORTANT!
  - The amp models require more than one instance of LiveSPICE for the desired results, separated into preamp and poweramp sections. This is done to prevent heavy CPU usage.
-   - **CAUTION:** Other preamps _need_ to be loud to push their matching poweramp circuit. This will be noted in the amp/effects list.
+   - **CAUTION:** Other preamps _need_ to be loud to push their matching poweramp circuit. This will be noted in the circuit list.
    - For real-time usage, the following settings are:
      - Oversampling at 1x.
      - Number of Iterations around 32 to 64 for preamps.
-     - Number of Iterations at 1 for poweramps except for the following models:
-       - Vox UL730 at 16 iterations _minimum_.
+     - Number of Iterations at 1 for poweramps (generally.) Exceptions will be noted in the circuit list.
    - For REAPER users, LiveSPICE will run in parallel, so all instances of LiveSPICE will open the same circuit. To be able to use more than one circuit across multiple instances, do the following workaround:
      - `Add FX ⊳ Right-click on "VST3: LiveSPICE (mono) ⊳ Run as... ⊳ Dedicated process` 
  - Some of the circuits may be "preamp only" sections available due to the following reasons:
@@ -37,6 +36,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
  - ## Guitar & Bass Amplifiers
    - Alamo Fury 2566
      - Requires matching poweramp circuit for intended behavior and sound.
+     - Number of iterations for the poweramp circuit at 16 _minimum_.
    - Ampeg VH140-C
      - Signal chain for Channel A:
        - Gain Stages ⊳ EQ & Output
@@ -76,10 +76,13 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Vox AC30C2
    - Vox UL730
      - Requires matching poweramp circuit for intended behavior and sound.
+     - Number of iterations for the poweramp circuit at 16 _minimum_.
    - WEM Dominator 1965
      - Requires matching poweramp circuit for intended behavior and sound.
+     - Number of iterations for the poweramp circuit at 16 _minimum_.
    - WEM Dominator Mk III
      - Requires matching poweramp circuit for intended behavior and sound.
+     - Number of iterations for the poweramp circuit at 16 _minimum_.
 ---
  - ### Removed
    - Dan Armstrong Orange Squeezer
