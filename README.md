@@ -5,6 +5,7 @@ Schematic files drawn for use with [LiveSPICE]( https://github.com/dsharlet/Live
 
 ## IMPORTANT!
  - The amp models require more than one instance of LiveSPICE for the desired results, separated into preamp and poweramp sections. This is done to prevent heavy CPU usage.
+   - **CAUTION:** Other preamps _need_ to be loud to push their matching poweramp circuit. This will be noted in the amp/effects list.
    - For real-time usage, the following settings are:
      - Oversampling at 1x.
      - Number of Iterations around 32 to 64 for preamps.
@@ -34,6 +35,8 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Nobels ODS-1 Overdrive
 
  - ## Guitar & Bass Amplifiers
+   - Alamo Fury 2566
+     - Requires matching poweramp circuit for intended behavior and sound.
    - Ampeg VH140-C
      - Signal chain for Channel A:
        - Gain Stages ⊳ EQ & Output
@@ -72,8 +75,11 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
        - Clean Channel / Drive Channel [Input ⊳ Tube Stages  ⊳ EQ & Master Volume] ⊳ Output
    - Vox AC30C2
    - Vox UL730
+     - Requires matching poweramp circuit for intended behavior and sound.
    - WEM Dominator 1965
+     - Requires matching poweramp circuit for intended behavior and sound.
    - WEM Dominator Mk III
+     - Requires matching poweramp circuit for intended behavior and sound.
 ---
  - ### Removed
    - Dan Armstrong Orange Squeezer
