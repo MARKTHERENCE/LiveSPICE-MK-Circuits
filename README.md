@@ -8,9 +8,11 @@ Schematic files drawn for use with [LiveSPICE]( https://github.com/dsharlet/Live
    - **CAUTION:** Other preamps _need_ to be loud to push their matching poweramp circuit. This will be noted in the circuit list.
    - For real-time usage, the following settings are:
      - Oversampling at 1x.
-     - Number of Iterations around 16 _minimum_ for preamps and overdrive/distortion circuits.
-     - Number of Iterations around 8 _minimum_ for EQ/tonestack and output circuits.
-     - Number of Iterations at 1 for poweramps (generally.) Exceptions will be noted in the circuit list.
+     - Number of Iterations:
+       - 16 _minimum_ for preamps and overdrive/distortion circuits.
+       - Number of Iterations around 8 _minimum_ for EQ/tonestack and output circuits.
+       - Number of Iterations at 1 for poweramps (generally.) Exceptions will be noted in the circuit list.
+         - These are more or less starting points. Your mileage may vary, so do experiement with whichever works best for you sound and performance-wise.
    - For REAPER users, LiveSPICE will run in parallel, so all instances of LiveSPICE will open the same circuit. To be able to use more than one circuit across multiple instances, do the following workaround:
      - `Add FX ⊳ Right-click on "VST3: LiveSPICE (mono) ⊳ Run as... ⊳ Dedicated process` 
  - Some of the circuits may be "preamp only" sections available due to the following reasons:
