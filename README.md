@@ -8,7 +8,8 @@ Schematic files drawn for use with [LiveSPICE]( https://github.com/dsharlet/Live
    - For real-time usage, the following settings are:
      - Oversampling at 1x.
      - Number of Iterations around 32 to 64 for preamps.
-     - Number of Iterations to 16 _minimum_ for poweramps.
+     - Number of Iterations at 1 for poweramps except for the following models:
+       - Vox UL730 at 16 iterations _minimum_.
    - For REAPER users, LiveSPICE will run in parallel, so all instances of LiveSPICE will open the same circuit. To be able to use more than one circuit across multiple instances, do the following workaround:
      - `Add FX ⊳ Right-click on "VST3: LiveSPICE (mono) ⊳ Run as... ⊳ Dedicated process` 
  - Some of the circuits may be "preamp only" sections available due to the following reasons:
@@ -38,6 +39,8 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
        - Gain Stages ⊳ EQ & Output
    - Ceriatone Marshall Plexi Super Lead "Dookie Mod"
    - Crate Stealth GT50-H
+     - Signal chain for Channel 2:
+       - 1st Tube ⊳ Distortion ⊳ 2nd Tube, EQ, & Master Volume
    - Diezel VH4*
      - _These are alleged, as VH4's are known to vary extensively. These circuits are bits and pieces that I could pick up from the source mentioned in the schematic files._
    - Fender Metalhead MH-500
@@ -76,7 +79,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Dan Armstrong Orange Squeezer
      - LiveSPICE does not seem to support circuits that consist of compression and other forms of amplitude modulation.
    - Lab Series L5
-     - The Operational transconductance amplifier used in the Distortion/Master stage of the amp is not supported in LiveSPICE
+     - Operational transconductance amplifiers that are found in the Compression/Distortion/Master circuit of the amp are not supported in LiveSPICE.
 
 ## Special Thanks
  - [Emil Rohbe]( https://www.youtube.com/@Rohbemusic ) for showcasing LiveSPICE a few years back.
