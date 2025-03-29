@@ -50,7 +50,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Crate Stealth GT50-H
      - Signal chain for Channel 2:
        - 1st Tube ⊳ Distortion ⊳ 2nd Tube, EQ, & Master Volume
-     - Simulation Diverged workarounds, placed before the Overdrive circuit:
+     - Simulation Diverged workarounds, placed before the Distortion circuit:
        - Limiter threshold at -12dB
        - 20Hz high-pass filter for dynamics. (optional)
    - Diezel VH4*
