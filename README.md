@@ -7,11 +7,11 @@ Schematic files drawn for use with [LiveSPICE]( https://github.com/dsharlet/Live
  - The amp models require more than one instance of LiveSPICE for the desired results, separated into preamp and poweramp sections. This is done to prevent heavy CPU usage.
    - **CAUTION:**
      - Even if most of these circuits do not return error messages when tested, too much input gain will result in Simulation Diverged errors, depending on your overdrive/distortion/booster/etc. effector of choice. Amp and pedal circuits that have this issue will be noted in the circuit list with workarounds.
-       - *e.g., I often tend to used [Distorque's Plusdistortion]( http://distorqueaudio.com/plugins/plusdistortion.html ) (MXR Distortion+ emulation) and it does not have any sort of gain staging at maximum settings, completely clipping mu guitar DI signal up to +11dB.*
      - Other preamps _need_ to be loud to push their matching poweramp circuit. This will be noted in the circuit list.
    - For real-time usage, the following settings are:
      - Oversampling at 1x.
      - Number of Iterations:
+       - 32 _minimum_ for pedals/effects.
        - 16 _minimum_ for preamps and overdrive/distortion circuits.
        - Number of Iterations around 8 _minimum_ for EQ/tonestack and output circuits.
        - Number of Iterations around 1 to 8 for poweramps (generally.) Exceptions will be noted in the circuit list.
