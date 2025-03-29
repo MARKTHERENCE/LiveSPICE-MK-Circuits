@@ -39,6 +39,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Dan Armstrong Yellow Humper
    - MXR Distortion III
    - Nobels ODS-1 Overdrive
+   - Xotic EP Booster
 
  - ## Guitar & Bass Amplifiers
    - Alamo Fury 2566
