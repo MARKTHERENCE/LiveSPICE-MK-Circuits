@@ -5,7 +5,10 @@ Schematic files drawn for use with [LiveSPICE]( https://github.com/dsharlet/Live
 
 ## IMPORTANT!
  - The amp models require more than one instance of LiveSPICE for the desired results, separated into preamp and poweramp sections. This is done to prevent heavy CPU usage.
-   - **CAUTION:** Other preamps _need_ to be loud to push their matching poweramp circuit. This will be noted in the circuit list.
+   - **CAUTION:**
+     - Even if most of these circuits do not return error messages when tested, too much input gain will result in Simulation Diverged errors, depending on your overdrive/distortion/booster/etc. effector of choice. Amp and pedal circuits that have this issue will be noted in the circuit list with workarounds.
+       - *e.g., I often tend to used [Distorque's Plusdistortion]( http://distorqueaudio.com/plugins/plusdistortion.html ) (MXR Distortion+ emulation) and it does not have any sort of gain staging at maximum settings, completely clipping mu guitar DI signal up to +11dB.*
+     - Other preamps _need_ to be loud to push their matching poweramp circuit. This will be noted in the circuit list.
    - For real-time usage, the following settings are:
      - Oversampling at 1x.
      - Number of Iterations:
@@ -22,7 +25,7 @@ Schematic files drawn for use with [LiveSPICE]( https://github.com/dsharlet/Live
  - There may be some circuits that are broken down into several parts. It's a compromise I had to resort to for CPU usage. For convenience, I will note which circuits this workaround applies to.
  - May not be a regular occurence, but circuits that use dual (or more) SP3T/SP4T/SP5T switches will not work in the VST version. To compensate, they are their own separate switch controls. Please match the switch positions accordingly.
 
-If any of these are the case, please refer to the schematic file for further details and instructions.
+**_If any of these are the case, please refer to the schematic file for further details and instructions._**
 
 # List of Circuits
 Circuits of various guitar/bass amps and FX pedals. This list may expand over time.
@@ -47,6 +50,9 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Crate Stealth GT50-H
      - Signal chain for Channel 2:
        - 1st Tube ⊳ Distortion ⊳ 2nd Tube, EQ, & Master Volume
+     - Simulation Diverged workarounds, placed before the Overdrive circuit:
+       - Limiter threshold at -12dB
+       - 20Hz high-pass filter for dynamics. (optional)
    - Diezel VH4*
      - _These are alleged, as VH4's are known to vary extensively. These circuits are bits and pieces that I could pick up from the source mentioned in the schematic files._
    - Fender Metalhead MH-500
@@ -61,7 +67,13 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Marshall 4140 Club & Country
    - Marshall 6100 30th Anniversary
    - Marshall JCM600
+     - Simulation Diverged workarounds, placed before the Overdrive preamp circuit:
+       - Limiter threshold at -15dB.
+       - 20Hz high-pass filter for dynamics. (optional)
    - Marshall Silver Jubilee 2550/2555
+     - Simulation Diverged workarounds, placed before the preamp circuit:
+       - Limiter threshold at -15dB.
+       - 20Hz high-pass filter for dynamics. (optional)
    - Marshall Valvestate 8100
      - Signal chain:
        - Normal / Boost ⊳ Master Volume
