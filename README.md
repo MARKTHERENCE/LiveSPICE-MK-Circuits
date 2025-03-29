@@ -42,7 +42,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
      - Number of iterations for the poweramp circuit at 16 _minimum_.
    - Ampeg VH140-C
      - Signal chain for Channel A:
-       - Gain Stages ⊳ EQ & Output
+       - Distortion ⊳ EQ & Output
    - Ceriatone Marshall Plexi Super Lead "Dookie Mod"
    - Crate Stealth GT50-H
      - Signal chain for Channel 2:
