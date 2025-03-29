@@ -11,8 +11,7 @@ Schematic files drawn for use with [LiveSPICE]( https://github.com/dsharlet/Live
    - For real-time usage, the following settings are:
      - Oversampling at 1x.
      - Number of Iterations:
-       - 32 _minimum_ for pedals/effects.
-       - 16 _minimum_ for preamps and overdrive/distortion circuits.
+       - 16 or 32 _minimum_ for preamps and overdrive/distortion circuits.
        - Number of Iterations around 8 _minimum_ for EQ/tonestack and output circuits.
        - Number of Iterations around 1 to 8 for poweramps (generally.) Exceptions will be noted in the circuit list.
          - These are more or less starting points. Your mileage may vary, so do experiement with whichever works best for you sound and performance-wise.
@@ -32,11 +31,13 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
 
  - ## Pedals & Effectors
    - Andromeda Natural Overdrive
+   - Dallas Rangemaster Treble Booster
    - Dan Armstrong Blue Clipper
    - Dan Armstrong Green Ringer
    - Dan Armstrong Purple Peaker
    - Dan Armstrong Red Ranger
    - Dan Armstrong Yellow Humper
+   - MXR Distortion III
    - Nobels ODS-1 Overdrive
 
  - ## Guitar & Bass Amplifiers
