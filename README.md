@@ -59,6 +59,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
      - _These are alleged, as VH4's are known to vary extensively. These circuits are bits and pieces that I could pick up from the source mentioned in the schematic files._
    - Fender Metalhead MH-500
    - "Fortin Cali Mod" (assumed to be incorrect)
+   - Laney AOR Series II
    - Legend Rock 'n Roll 50
      - Signal chain:
        - 1st & 2nd Tube Stages ⊳ Phase Inverter
