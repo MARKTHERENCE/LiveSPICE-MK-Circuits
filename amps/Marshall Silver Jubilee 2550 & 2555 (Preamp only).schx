@@ -434,13 +434,7 @@
     <Component _Type="Circuit.Diode, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" IS="65.4 pA" n="1.36" Type="Diode" Name="D7" PartNumber="1N4001" Description="" />
   </Element>
   <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-655,110">
-    <Component _Type="Circuit.Label, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Text="NOTE 1:" Subtext="12AX7 preamp tubes have been replaced with 12AT7s for lower CPU usage." Name="_3" Description="Displays a text label on a schematic." />
-  </Element>
-  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-450,-45">
-    <Component _Type="Circuit.Triode, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Model="ChildLangmuir" SimulateCapacitances="False" Mu="67.49" K="1.73E-06" Ex="1.234" Kg="419.1" Kp="213.96" Kvb="300" Rgk="1 MΩ" Kn="500 mV" Vg="330 mV" Gamma="1.26" G="0.002242" Gg="0.0006177" C="3.4" Cg="9.901" Xi="1.314" Ig0="80.24991410065407 nA" Cgp="2.4 pF" Cgk="2.3 pF" Cpk="900 fF" Name="V3" PartNumber="12AT7" Description="" />
-  </Element>
-  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-100,-50">
-    <Component _Type="Circuit.Triode, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Model="ChildLangmuir" SimulateCapacitances="False" Mu="67.49" K="1.73E-06" Ex="1.234" Kg="419.1" Kp="213.96" Kvb="300" Rgk="1 MΩ" Kn="500 mV" Vg="330 mV" Gamma="1.26" G="0.002242" Gg="0.0006177" C="3.4" Cg="9.901" Xi="1.314" Ig0="80.24991410065407 nA" Cgp="2.4 pF" Cgk="2.3 pF" Cpk="900 fF" Name="V5" PartNumber="12AT7" Description="" />
+    <Component _Type="Circuit.Label, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Text="NOTE 1:" Subtext="12AX7 preamp tubes have been replaced with 12AY7s for lower CPU usage." Name="_3" Description="Displays a text label on a schematic." />
   </Element>
   <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="50,-25">
     <Component _Type="Circuit.Triode, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Model="DempwolfZolzer" SimulateCapacitances="False" Mu="83.5" K="1.73E-06" Ex="1.4" Kg="1060" Kp="600" Kvb="300" Rgk="1 MΩ" Kn="500 mV" Vg="330 mV" Gamma="1.26" G="0.002242" Gg="0.0006177" C="3.4" Cg="9.901" Xi="1.314" Ig0="80.25 nA" Cgp="2.4 pF" Cgk="2.3 pF" Cpk="900 fF" Name="V4" PartNumber="12AX7" Description="" />
@@ -456,10 +450,16 @@
     <Component _Type="Circuit.Diode, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" IS="93 pA" n="3.73" Type="LED" Name="D3" PartNumber="Red" Description="Generic red LED" />
   </Element>
   <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-350,-105" B="-350,-50" />
-  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-650,-25">
-    <Component _Type="Circuit.Triode, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Model="ChildLangmuir" SimulateCapacitances="False" Mu="67.49" K="1.73E-06" Ex="1.234" Kg="419.1" Kp="213.96" Kvb="300" Rgk="1 MΩ" Kn="500 mV" Vg="330 mV" Gamma="1.26" G="0.002242" Gg="0.0006177" C="3.4" Cg="9.901" Xi="1.314" Ig0="80.24991410065407 nA" Cgp="2.4 pF" Cgk="2.3 pF" Cpk="900 fF" Name="V2" PartNumber="12AT7" Description="" />
-  </Element>
   <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-655,145">
     <Component _Type="Circuit.Label, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Text="NOTE 2:" Subtext="One 1N4001 diode in the Lead Channel has been omitted, as it does not affect the diode clipping distortion and sound. Gain staging is compensated in the output." Name="_2" Description="Displays a text label on a schematic." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-650,-25">
+    <Component _Type="Circuit.Triode, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Model="ChildLangmuir" SimulateCapacitances="False" Mu="44.16" K="1.73E-06" Ex="1.113" Kg="1192.4" Kp="409.96" Kvb="300" Rgk="1 MΩ" Kn="500 mV" Vg="330 mV" Gamma="1.26" G="0.002242" Gg="0.0006177" C="3.4" Cg="9.901" Xi="1.314" Ig0="80.24991410065407 nA" Cgp="2.4 pF" Cgk="2.3 pF" Cpk="900 fF" Name="V2" PartNumber="12AY7" Description="" />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-450,-45">
+    <Component _Type="Circuit.Triode, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Model="ChildLangmuir" SimulateCapacitances="False" Mu="44.16" K="1.73E-06" Ex="1.113" Kg="1192.4" Kp="409.96" Kvb="300" Rgk="1 MΩ" Kn="500 mV" Vg="330 mV" Gamma="1.26" G="0.002242" Gg="0.0006177" C="3.4" Cg="9.901" Xi="1.314" Ig0="80.24991410065407 nA" Cgp="2.4 pF" Cgk="2.3 pF" Cpk="900 fF" Name="V3" PartNumber="12AY7" Description="" />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-100,-50">
+    <Component _Type="Circuit.Triode, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Model="ChildLangmuir" SimulateCapacitances="False" Mu="44.16" K="1.73E-06" Ex="1.113" Kg="1192.4" Kp="409.96" Kvb="300" Rgk="1 MΩ" Kn="500 mV" Vg="330 mV" Gamma="1.26" G="0.002242" Gg="0.0006177" C="3.4" Cg="9.901" Xi="1.314" Ig0="80.24991410065407 nA" Cgp="2.4 pF" Cgk="2.3 pF" Cpk="900 fF" Name="V5" PartNumber="12AY7" Description="" />
   </Element>
 </Schematic>

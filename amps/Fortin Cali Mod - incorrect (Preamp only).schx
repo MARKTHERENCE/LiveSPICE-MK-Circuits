@@ -341,7 +341,7 @@
     <Component _Type="Circuit.Potentiometer, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="1 MΩ" Wipe="0.5" Sweep="Logarithmic" Group="" Name="G1" Description="Represents a potentiometer. When Wipe is 0, the wiper is at the cathode." />
   </Element>
   <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-435,100">
-    <Component _Type="Circuit.SPDT, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Name="B/S" Position="0" Group="" Description="single pole double-throw switch." />
+    <Component _Type="Circuit.SPDT, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Position="0" Group="" Name="B/S" Description="single pole double-throw switch." />
   </Element>
   <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-4" Flip="true" Position="-5,20">
     <Component _Type="Circuit.SP3T, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Position="0" Group="" Name="CL" Description="single pole triple-throw switch." />
@@ -368,12 +368,12 @@
     <Component _Type="Circuit.Diode, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" IS="9.05 fA" n="1.1" Type="Zener" Name="D4" PartNumber="1N4739A" Description="" />
   </Element>
   <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-5" Flip="false" Position="-480,-60">
-    <Component _Type="Circuit.SPDT, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Name="1" Position="0" Group="BR0-1" Description="single pole double-throw switch." />
+    <Component _Type="Circuit.SPDT, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Position="0" Group="BR0-1" Name="1" Description="single pole double-throw switch." />
   </Element>
   <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-500,-60" B="-500,-30" />
   <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-500,-30" B="-500,-20" />
   <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-455,-90">
-    <Component _Type="Circuit.SPDT, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Name="2" Position="0" Group="BR0-2" Description="single pole double-throw switch." />
+    <Component _Type="Circuit.SPDT, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Position="0" Group="BR0-2" Name="2" Description="single pole double-throw switch." />
   </Element>
   <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-465,-115" B="-465,-110" />
   <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-445,-115" B="-445,-110" />
@@ -384,11 +384,11 @@
   <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-225,0" B="-220,0" />
   <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-260,-70" B="-255,-70" />
   <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-5" Flip="false" Position="-280,-60">
-    <Component _Type="Circuit.SPDT, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Name="3" Position="0" Group="BR0-1" Description="single pole double-throw switch." />
+    <Component _Type="Circuit.SPDT, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Position="0" Group="BR0-1" Name="3" Description="single pole double-throw switch." />
   </Element>
   <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-300,-60" B="-300,-30" />
   <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-255,-90">
-    <Component _Type="Circuit.SPDT, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Name="4" Position="0" Group="BR0-2" Description="single pole double-throw switch." />
+    <Component _Type="Circuit.SPDT, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Position="0" Group="BR0-2" Name="4" Description="single pole double-throw switch." />
   </Element>
   <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-265,-115" B="-265,-110" />
   <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-245,-115" B="-245,-110" />
@@ -399,13 +399,13 @@
   <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-165,-150" B="-160,-150" />
   <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-160,-150" B="-150,-150" />
   <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-150,-150" B="-100,-150" />
-  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-100,-30">
-    <Component _Type="Circuit.Triode, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Model="ChildLangmuir" SimulateCapacitances="False" Mu="67.49" K="1.73E-06" Ex="1.234" Kg="419.1" Kp="213.96" Kvb="300" Rgk="1 MΩ" Kn="500 mV" Vg="330 mV" Gamma="1.26" G="0.002242" Gg="0.0006177" C="3.4" Cg="9.901" Xi="1.314" Ig0="80.24991410065407 nA" Cgp="2.4 pF" Cgk="2.3 pF" Cpk="900 fF" Name="V5" PartNumber="12AT7" Description="" />
-  </Element>
   <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-150,0">
     <Component _Type="Circuit.Triode, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Model="DempwolfZolzer" SimulateCapacitances="False" Mu="83.5" K="1.73E-06" Ex="1.4" Kg="1060" Kp="600" Kvb="300" Rgk="1 MΩ" Kn="500 mV" Vg="330 mV" Gamma="1.26" G="0.002242" Gg="0.0006177" C="3.4" Cg="9.901" Xi="1.314" Ig0="80.25 nA" Cgp="2.4 pF" Cgk="2.3 pF" Cpk="900 fF" Name="V4" PartNumber="12AX7" Description="" />
   </Element>
   <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-740,210">
-    <Component _Type="Circuit.Label, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Text="NOTE:" Subtext="Driver stage for the clipping and tonestack has been replaced with 12AT7 for lower CPU usage." Name="_3" Description="Displays a text label on a schematic." />
+    <Component _Type="Circuit.Label, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Text="NOTE:" Subtext="Driver stage for the clipping and tonestack has been replaced with 12AY7 for lower CPU usage." Name="_3" Description="Displays a text label on a schematic." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-100,-30">
+    <Component _Type="Circuit.Triode, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Model="ChildLangmuir" SimulateCapacitances="False" Mu="44.16" K="1.73E-06" Ex="1.113" Kg="1192.4" Kp="409.96" Kvb="300" Rgk="1 MΩ" Kn="500 mV" Vg="330 mV" Gamma="1.26" G="0.002242" Gg="0.0006177" C="3.4" Cg="9.901" Xi="1.314" Ig0="80.24991410065407 nA" Cgp="2.4 pF" Cgk="2.3 pF" Cpk="900 fF" Name="V5" PartNumber="12AY7" Description="" />
   </Element>
 </Schematic>
