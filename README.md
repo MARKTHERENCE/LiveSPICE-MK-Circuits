@@ -55,6 +55,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Fender Metalhead MH-500
    - "Fortin Cali Mod" (assumed to be incorrect)
    - Laney AOR Series II
+   - Laney Klipp 60 & 100
    - Laney LV300
      - Signal chain:
        - Clean / Drive 1 / Drive 2 ⊳ VTS & Output
