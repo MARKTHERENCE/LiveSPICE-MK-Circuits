@@ -72,6 +72,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
      - Signal chain:
        - Normal / Boost ⊳ Master Volume
        - The Master Volume circuit is optional, but I find that it adds some subtle saturation.
+   - MESA/Boogie Stiletto Stage II Deuce
    - Park 1210 Rock Head
    - Peavey Decade preamp section
    - ~~Pignose 7-100 preamp section~~ (faulty circuit as of 3/19/2025, currently attempting to fix this.)
