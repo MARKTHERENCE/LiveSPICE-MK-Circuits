@@ -72,6 +72,14 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
      - Signal chain:
        - Normal / Boost ⊳ Master Volume
        - The Master Volume circuit is optional, but I find that it adds some subtle saturation.
+   - MEGA/Boogie Nomad 100
+     - Use an external EQ plug-in (i.e. ReaEQ) to substitute as the Graphic EQ section of the amp. The following frequencies and bandwidth are:
+       - 87.61Hz / Q = 1.171 (Low shelf)
+       - 371.7Hz / Q = 1.938 (Band)
+       - 723.4Hz / Q = 2.128 (Band)
+       - 1576Hz / Q = 0.6733 (Band)
+       - 4823Hz / Q = 1.000 (High shelf)
+         - Real frequencies and bandwidth are measured by [gugabrandao in the The Boogie Board forums]( https://boogieforum.com/threads/mesa-boogie-graphic-eq-real-frequencies.69355/ ).
    - MESA/Boogie Stiletto Stage II Deuce
    - Park 1210 Rock Head
    - Peavey Decade preamp section
