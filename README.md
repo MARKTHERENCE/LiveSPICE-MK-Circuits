@@ -60,8 +60,6 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
      - Signal chain:
        - Clean / Drive 1 / Drive 2 ⊳ VTS & Output
    - Legend Rock 'n Roll 50
-     - Signal chain:
-       - 1st & 2nd Tube Stages ⊳ Phase Inverter
    - Marshall "Jose Master Volume" mod (by Fusedbrain)
      - Derived from 1987x
    - Marshall "Martin Golub/Dookie Mod" (by Misery Party / julio)
@@ -83,7 +81,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Selmer Treble 'n Bass 50w MKII
    - Tube Works MosValve RT-2100
      - Signal chain:
-       - Clean Channel / Drive Channel [Input ⊳ Tube Stages  ⊳ EQ & Master Volume] ⊳ Output
+       - Clean Channel / Drive Channel [Distortion  ⊳ EQ & Master Volume] ⊳ Output
    - Vox AC30C2
    - Vox UL730
      - Requires matching poweramp circuit for intended behavior and sound.
