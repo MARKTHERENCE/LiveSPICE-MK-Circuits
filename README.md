@@ -47,7 +47,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
      - Number of iterations for the poweramp circuit at 16 _minimum_.
    - Ampeg VH140-C
      - Signal chain for Channel A:
-       - Distortion ⊳ EQ & Output
+       - `Distortion ⊳ EQ & Output`
    - Ceriatone Marshall Plexi Super Lead "Dookie Mod"
    - Crate Stealth GT50-H
    - Diezel VH4*
@@ -57,40 +57,43 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Laney AOR Series II
    - Laney Klipp 60 & 100
    - Laney LV300
-     - Signal chain:
-       - Clean / Drive 1 / Drive 2 ⊳ VTS & Output
+     - _Signal chain:_
+       - `Clean / Drive 1 / Drive 2 ⊳ VTS & Output`
    - Legend Rock 'n Roll 50
    - Marshall "Jose Master Volume" mod (by Fusedbrain)
-     - Derived from 1987x
+     - _Derived from 1987x._
    - Marshall "Martin Golub/Dookie Mod" (by Misery Party / julio)
-     - Derived from JCM800 2203 / JMP Superlead 100w
+     - _Derived from JCM800 2203 / JMP Superlead 100w._
    - Marshall 4140 Club & Country
    - Marshall 6100 30th Anniversary
    - Marshall JCM600
    - Marshall Silver Jubilee 2550/2555
    - Marshall Valvestate 8100
      - Signal chain:
-       - Normal / Boost ⊳ Master Volume
-       - The Master Volume circuit is optional, but I find that it adds some subtle saturation.
-   - MEGA/Boogie Nomad 100
-     - Use an external EQ plug-in (i.e. ReaEQ) to substitute as the Graphic EQ section of the amp. The following frequencies and bandwidth are:
+       - `Normal / Boost ⊳ Master Volume`
+       - _The Master Volume circuit is optional, but I find that it adds some subtle saturation._
+   - MESA/Boogie Mark I
+     - _This circuit seems to be ever-changing as each model may have other features not present from others. I omitted the Graphic EQ/Gain Boost circuits for this one._
+     - Should you want the Graphic EQ feature, use an external EQ plug-in (i.e. ReaEQ) to substitute as the Graphic EQ section of the amp. The following frequencies and bandwidth are:
        - 87.61Hz / Q = 1.171 (Low shelf)
        - 371.7Hz / Q = 1.938 (Band)
        - 723.4Hz / Q = 2.128 (Band)
        - 1576Hz / Q = 0.6733 (Band)
        - 4823Hz / Q = 1.000 (High shelf)
-         - Real frequencies and bandwidth are measured by [gugabrandao in the The Boogie Board forums]( https://boogieforum.com/threads/mesa-boogie-graphic-eq-real-frequencies.69355/ ).
+         - _Real frequencies and bandwidth are measured by [gugabrandao in the The Boogie Board forums]( https://boogieforum.com/threads/mesa-boogie-graphic-eq-real-frequencies.69355/ )._
+   - MESA/Boogie Nomad 100
+     - *EQ frequencies and bandwidth are specified in the Mark I notes.*
    - MESA/Boogie Stiletto Stage II Deuce
    - Park 1210 Rock Head
    - Peavey Decade preamp section
-   - ~~Pignose 7-100 preamp section~~ (faulty circuit as of 3/19/2025, currently attempting to fix this.)
+   - ~~Pignose 7-100 preamp section~~ _(faulty circuit as of 3/19/2025, currently attempting to fix this.)_
    - Roland DAC15
      - Signal chain:
-       - Gain Stages / Gain Stages + Clipper ⊳ EQ & Master Volume
+       - `Gain Stages / Gain Stages + Clipper ⊳ EQ & Master Volume`
    - Selmer Treble 'n Bass 50w MKII
    - Tube Works MosValve RT-2100
      - Signal chain:
-       - Clean Channel / Drive Channel [Distortion  ⊳ EQ & Master Volume] ⊳ Output
+       - `Clean Channel / Drive Channel [Distortion  ⊳ EQ & Master Volume] ⊳ Output`
    - Vox AC30C2
    - Vox UL730
      - Requires matching poweramp circuit for intended behavior and sound.
