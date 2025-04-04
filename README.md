@@ -11,15 +11,15 @@ Schematic files drawn for use with [LiveSPICE]( https://github.com/dsharlet/Live
    - For real-time usage, the following settings are:
      - Oversampling at 1x.
      - Number of Iterations:
-       - 16 or 32 _minimum_ for preamps and overdrive/distortion circuits.
+       - 16 _minimum_ for preamps.
+       - 32 _minimum_ for overdrive/distortion circuits.
        - Number of Iterations around 8 _minimum_ for EQ/tonestack and output circuits.
        - Number of Iterations around 1 to 8 for poweramps (generally.) Exceptions will be noted in the circuit list.
          - These are more or less starting points. Your mileage may vary, so do experiement with whichever works best for you sound and performance-wise.
    - For REAPER users, LiveSPICE will run in parallel, so all instances of LiveSPICE will open the same circuit. To be able to use more than one circuit across multiple instances, do the following workaround:
      - `Add FX ⊳ Right-click on "VST3: LiveSPICE (mono) ⊳ Run as... ⊳ Dedicated process` 
  - Some of the circuits may be "preamp only" sections available due to the following reasons:
-   - The referenced schematic does not include the diagram for the power amp section. 
-   - The tube stages use the phase inverter of the power amp to cascade more gain.
+   - The referenced schematic does not include the diagram for the power amp section.
    - The power amp section is solid state-based.
  - There may be some circuits that are broken down into several parts. It's a compromise I had to resort to for CPU usage. For convenience, I will note which circuits this workaround applies to.
  - May not be a regular occurence, but circuits that use dual (or more) SP3T/SP4T/SP5T switches will not work in the VST version. To compensate, they are their own separate switch controls. Please match the switch positions accordingly.
@@ -36,6 +36,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Dan Armstrong Green Ringer
    - Dan Armstrong Purple Peaker
    - Dan Armstrong Red Ranger
+     - Grouped SP3T switches are buggy in  the VST version of LiveSPICE. Match both switches when selecting which mode for intended result.
    - Dan Armstrong Yellow Humper
    - MXR Distortion III
    - Nobels ODS-1 Overdrive
@@ -82,19 +83,22 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
        - 4823Hz / Q = 1.000 (High shelf)
          - _Real frequencies and bandwidth are measured by [gugabrandao in the The Boogie Board forums]( https://boogieforum.com/threads/mesa-boogie-graphic-eq-real-frequencies.69355/ )._
    - MESA/Boogie Nomad 100
-     - *EQ frequencies and bandwidth are specified in the Mark I notes.*
+     - *Graphic EQ frequencies and bandwidth are specified in the Mark I notes.*
    - MESA/Boogie Stiletto Stage II Deuce
    - Park 1210 Rock Head
+     - Poweramp section is work-in-progress.
    - Peavey Decade preamp section
    - ~~Pignose 7-100 preamp section~~ _(faulty circuit as of 3/19/2025, currently attempting to fix this.)_
    - Roland DAC15
      - Signal chain:
        - `Gain Stages / Gain Stages + Clipper ⊳ EQ & Master Volume`
    - Selmer Treble 'n Bass 50w MKII
+     - Poweramp section is work-in-progress.
    - Tube Works MosValve RT-2100
      - Signal chain:
        - `Clean Channel / Drive Channel [Distortion  ⊳ EQ & Master Volume] ⊳ Output`
    - Vox AC30C2
+     - Poweramp section is work-in-progress.
    - Vox UL730
      - Requires matching poweramp circuit for intended behavior and sound.
      - Number of iterations for the poweramp circuit at 16 _minimum_.
