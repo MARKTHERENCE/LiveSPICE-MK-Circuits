@@ -31,6 +31,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
 
  - ## Pedals & Effectors
    - Andromeda Natural Overdrive
+   - Carlsbro Suzz
    - Dallas Rangemaster Treble Booster
    - Dan Armstrong Blue Clipper
    - Dan Armstrong Green Ringer
@@ -49,6 +50,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Ampeg VH140-C
      - Signal chain for Channel A:
        - `Distortion ⊳ EQ & Output`
+   - Carlsbro Stingray Lead 65/100
    - Ceriatone Marshall Plexi Super Lead "Dookie Mod"
    - Crate Stealth GT50-H
    - Diezel VH4*
