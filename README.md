@@ -54,7 +54,12 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Diezel VH4*
      - _These are alleged, as VH4's are known to vary extensively. These circuits are bits and pieces that I could pick up from the source mentioned in the schematic files._
    - Fender Metalhead MH-500
-   - "Fortin Cali Mod" (assumed to be incorrect)
+   - "Fortin Cali Mod" (assumed to be incorrect
+   - HH V/S Musician
+     - Signal chain for Channel 1:
+       - `Main Circuit ⊳ Tone Correction Module`
+       - *The "Tone Correction Module" is fed with 10V at its input stage, which is why it is its own dedicated schematic file.*
+       - *"VO.P2" is meant to be toggled when the "VO" (Voice) switch from the Tone Correction Module is set to Position 2 (Heavy), but you can use it as an independent gain boost on its own as an unintended "feature".*
    - Laney AOR Series II
    - Laney Klipp 60 & 100
    - Laney LV300
