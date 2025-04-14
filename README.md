@@ -57,6 +57,8 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
      - _These are alleged, as VH4's are known to vary extensively. These circuits are bits and pieces that I could pick up from the source mentioned in the schematic files._
    - Fender Metalhead MH-500
    - Fender Roc Pro 1000
+     - Signal chain for Tube Drive channel:
+       - `Gain Stages ⊳ EQ & Volume`
    - "Fortin Cali Mod" (assumed to be incorrect
    - HH V/S Musician
      - Signal chain for Channel 1:
