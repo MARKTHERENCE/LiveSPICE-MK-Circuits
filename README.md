@@ -56,6 +56,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Diezel VH4*
      - _These are alleged, as VH4's are known to vary extensively. These circuits are bits and pieces that I could pick up from the source mentioned in the schematic files._
    - Fender Metalhead MH-500
+   - Fender Roc Pro 1000
    - "Fortin Cali Mod" (assumed to be incorrect
    - HH V/S Musician
      - Signal chain for Channel 1:
@@ -108,6 +109,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
      - Poweramp section is work-in-progress.
    - Vox UL730
      - Requires matching poweramp circuit for intended behavior and sound.
+       - *The poweramp circuit is fed with 25V at the input signal for the intended gain/distortion characteristic of the amp.*
      - Number of iterations for the poweramp circuit at 16 _minimum_.
    - WEM Dominator 1965
      - Requires matching poweramp circuit for intended behavior and sound.
