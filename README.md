@@ -61,6 +61,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
        - `Main Circuit ⊳ Tone Correction Module`
        - *The "Tone Correction Module" is fed with 10V at its input stage, which is why it is its own dedicated schematic file.*
        - *"VO.P2" is meant to be toggled when the "VO" (Voice) switch from the Tone Correction Module is set to Position 2 (Heavy), but you can use it as an independent gain boost on its own as an unintended "feature".*
+   - Lab Series L5
    - Laney AOR Series II
    - Laney Klipp 60 & 100
    - Laney LV300
@@ -109,8 +110,6 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
  - ### Removed
    - Dan Armstrong Orange Squeezer
      - LiveSPICE does not seem to support circuits that consist of compression and other forms of amplitude modulation.
-   - Lab Series L5
-     - Operational transconductance amplifiers that are found in the Compression/Distortion/Master circuit of the amp are not supported in LiveSPICE.
    - Pignose 7-100
      - Put on hold as I am unfamiliar with transformer components for the circuit to work as intended.
 
