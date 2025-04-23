@@ -89,7 +89,6 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Park 1210 Rock Head
      - Poweramp section is work-in-progress.
    - Peavey Decade preamp section
-   - ~~Pignose 7-100 preamp section~~ _(faulty circuit as of 3/19/2025, currently attempting to fix this.)_
    - Roland DAC15
    - Selmer Treble 'n Bass 50w MKII
      - Poweramp section is work-in-progress.
@@ -112,6 +111,8 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
      - LiveSPICE does not seem to support circuits that consist of compression and other forms of amplitude modulation.
    - Lab Series L5
      - Operational transconductance amplifiers that are found in the Compression/Distortion/Master circuit of the amp are not supported in LiveSPICE.
+   - Pignose 7-100
+     - Put on hold as I am unfamiliar with transformer components for the circuit to work as intended.
 
 ## Special Thanks
  - [Emil Rohbe]( https://www.youtube.com/@Rohbemusic ) for showcasing LiveSPICE a few years back.
