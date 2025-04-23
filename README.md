@@ -13,7 +13,6 @@ Schematic files drawn for use with [LiveSPICE]( https://github.com/dsharlet/Live
      - Number of Iterations:
        - 16 _minimum_ for preamps.
        - 32 _minimum_ for overdrive/distortion circuits.
-       - Number of Iterations around 8 _minimum_ for EQ/tonestack and output circuits.
        - Number of Iterations around 1 to 8 for poweramps (generally.) Exceptions will be noted in the circuit list.
          - These are more or less starting points. Your mileage may vary, so do experiement with whichever works best for you sound and performance-wise.
    - For REAPER users, LiveSPICE will run in parallel, so all instances of LiveSPICE will open the same circuit. To be able to use more than one circuit across multiple instances, do the following workaround:
@@ -21,7 +20,7 @@ Schematic files drawn for use with [LiveSPICE]( https://github.com/dsharlet/Live
  - Some of the circuits may be "preamp only" sections available due to the following reasons:
    - The referenced schematic does not include the diagram for the power amp section.
    - The power amp section is solid state-based.
- - There may be some circuits that are broken down into several parts. It's a compromise I had to resort to for CPU usage. For convenience, I will note which circuits this workaround applies to.
+ - There may be some circuits that are broken down into several parts, due to either unintended behaviors or CPU usage. For convenience, I will note which circuits this workaround applies to.
  - May not be a regular occurence, but circuits that use dual (or more) SP3T/SP4T/SP5T switches will not work in the VST version. To compensate, they are their own separate switch controls. Please match the switch positions accordingly.
 
 **_If any of these are the case, please refer to the schematic file for further details and instructions._**
@@ -37,7 +36,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Dan Armstrong Green Ringer
    - Dan Armstrong Purple Peaker
    - Dan Armstrong Red Ranger
-     - Grouped SP3T switches are buggy in  the VST version of LiveSPICE. Match both switches when selecting which mode for intended result.
+     - Grouped SP3T switches are buggy in the VST version of LiveSPICE. Match both switches when selecting which mode for intended result.
    - Dan Armstrong Yellow Humper
    - MXR Distortion III
    - Nobels ODS-1 Overdrive
@@ -49,8 +48,6 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
      - Requires matching poweramp circuit for intended behavior and sound.
      - Number of iterations for the poweramp circuit at 16 _minimum_.
    - Ampeg VH140-C
-     - Signal chain for Channel A:
-       - `Distortion ⊳ EQ & Output`
    - Carlsbro Stingray Lead 65/100
    - Ceriatone Marshall Plexi Super Lead "Dookie Mod"
    - Crate Stealth GT50-H
@@ -58,8 +55,6 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
      - _These are alleged, as VH4's are known to vary extensively. These circuits are bits and pieces that I could pick up from the source mentioned in the schematic files._
    - Fender Metalhead MH-500
    - Fender Roc Pro 1000
-     - Signal chain for Tube Drive channel:
-       - `Gain Stages ⊳ EQ & Volume`
    - "Fortin Cali Mod" (assumed to be incorrect
    - HH V/S Musician
      - Signal chain for Channel 1:
@@ -69,8 +64,6 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Laney AOR Series II
    - Laney Klipp 60 & 100
    - Laney LV300
-     - _Signal chain:_
-       - `Clean / Drive 1 / Drive 2 ⊳ VTS & Output`
    - Legend Rock 'n Roll 50
    - Marshall "Jose Master Volume" mod (by Fusedbrain)
      - _Derived from 1987x._
@@ -81,9 +74,6 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Marshall JCM600
    - Marshall Silver Jubilee 2550/2555
    - Marshall Valvestate 8100
-     - Signal chain:
-       - `Normal / Boost ⊳ Master Volume`
-       - _The Master Volume circuit is optional, but I find that it adds some subtle saturation._
    - MESA/Boogie Mark I
      - _This circuit seems to be ever-changing as each model may have other features not present from others. I omitted the Graphic EQ/Gain Boost circuits for this one._
      - Should you want the Graphic EQ feature, use an external EQ plug-in (i.e. ReaEQ) to substitute as the Graphic EQ section of the amp. The following frequencies and bandwidth are:
@@ -101,13 +91,9 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Peavey Decade preamp section
    - ~~Pignose 7-100 preamp section~~ _(faulty circuit as of 3/19/2025, currently attempting to fix this.)_
    - Roland DAC15
-     - Signal chain:
-       - `Gain Stages / Gain Stages + Clipper ⊳ EQ & Master Volume`
    - Selmer Treble 'n Bass 50w MKII
      - Poweramp section is work-in-progress.
    - Tube Works MosValve RT-2100
-     - Signal chain:
-       - `Clean Channel / Drive Channel [Distortion  ⊳ EQ & Master Volume] ⊳ Output`
    - Vox AC30C2
      - Poweramp section is work-in-progress.
    - Vox UL730
