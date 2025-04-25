@@ -62,6 +62,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
        - *The "Tone Correction Module" is fed with 10V at its input stage, which is why it is its own dedicated schematic file.*
        - *"VO.P2" is meant to be toggled when the "VO" (Voice) switch from the Tone Correction Module is set to Position 2 (Heavy), but you can use it as an independent gain boost on its own as an unintended "feature".*
    - Lab Series L5
+     - *The CA3094/LM13700 transconductance op-amps from the original schematics are replaced with a simple OP134 stage.*
    - Laney AOR Series II
    - Laney Klipp 60 & 100
    - Laney LV300
