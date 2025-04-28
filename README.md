@@ -121,6 +121,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
  - [Misery Party]( https://www.youtube.com/@miseryparty3726 ) / julio ([@walkingcontrad1ction]( https://www.instagram.com/walkingcontrad1ction/ ) on Instagram) for his accurate schematic of the Martin Golub/Dookie mod.
 
 ## Sound Demos
+ - [Lab Series L5]( https://youtu.be/xhopjWutTFM ) by me.
  - [1 hr. and 14 min. high gain shootout]( https://www.youtube.com/watch?v=8n2cJ84vBjc ) by [@cmd_f5]( https://www.youtube.com/@cmd_f5 )
  - [Fender Metalhead MH-500]( https://youtu.be/JuXZqc2LVPo ) by me.
  - [Martin Golub's "Green Day Dookie" Marshall mod]( https://youtu.be/Woa6odWk67s ) by me.
