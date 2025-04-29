@@ -31,7 +31,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
  - ## Pedals & Effectors
    - Andromeda Natural Overdrive
    - BOSS BD-2 Blues Driver
-     - ***Very experimental!!** It is a heavy circuit to simulate in real-time due to the first two transistor stages.*
+     - ***Very experimental!!** It is a heavy circuit to simulate in real-time due to the JFET stages.*
    - Carlsbro Suzz
    - Dallas Rangemaster Treble Booster
    - Dan Armstrong Blue Clipper
