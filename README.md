@@ -32,7 +32,9 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Andromeda Natural Overdrive
    - BOSS BD-2 Blues Driver
      - ***Very experimental!!** It is a heavy circuit to simulate in real-time due to the JFET stages.*
-       - *This is due to the discrete op-omp topology used for the gain stages. An alternative version of this circuit with ideal op-amp components is possible.*
+       - *This is due to the discrete op-omp topology used for the gain stages. An alternative version of this circuit with ideal op-amp components is provided.*
+   - BOSS BD-2 Blues Driver (emy's Op-Amp Variant)
+     - *Noticeably brighter due to the use of ideal op-amp components as trade-off for CPU usage.*
    - Carlsbro Suzz
    - Dallas Rangemaster Treble Booster
    - Dan Armstrong Blue Clipper
