@@ -30,6 +30,8 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
 
  - ## Pedals & Effectors
    - Andromeda Natural Overdrive
+   - B.K. Butler Tube Driver ('79-80 "Garage" edition & bajaman's "Bias pot" mod)
+     - 12AX7, 12AT7, and 12AU7 tube variations
    - BOSS BD-2 Blues Driver
      - ***Very experimental!!*** *It is a heavy circuit to simulate in real-time.*
        - *This is due to the discrete op-omp topology used for the gain stages. An alternative version of this circuit with ideal op-amp components is provided.*
