@@ -37,6 +37,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
        - *This is due to the discrete op-omp topology used for the gain stages. An alternative version of this circuit with ideal op-amp components is provided.*
    - BOSS BD-2 Blues Driver (emy's Op-Amp Variant)
      - *Noticeably less compressed due to the use of ideal op-amp components at the first opamp stage and peak filter at the output stage as trade-off for CPU usage.*
+   - BOSS Distortion DS-1
    - BOSS HM-2 Heavy Metal
    - Carlsbro Suzz
    - Dallas Rangemaster Treble Booster
@@ -46,6 +47,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Dan Armstrong Red Ranger
      - Grouped SP3T switches are buggy in the VST version of LiveSPICE. Match both switches when selecting which mode for intended result.
    - Dan Armstrong Yellow Humper
+   - Ibanez Tube Screamer TS-10
    - MXR Distortion III
    - Nobels ODS-1 Overdrive
    - UMI Buzz Tone
