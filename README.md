@@ -47,6 +47,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Dan Armstrong Red Ranger
      - Grouped SP3T switches are buggy in the VST version of LiveSPICE. Match both switches when selecting which mode for intended result.
    - Dan Armstrong Yellow Humper
+   - Ibanez Jemini Distortion
    - Ibanez Tube Screamer TS-10
    - MXR Distortion III
    - Nobels ODS-1 Overdrive
