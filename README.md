@@ -75,8 +75,6 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Legend Rock 'n Roll 50
    - Marshall "Jose Master Volume" mod (by Fusedbrain)
      - _Derived from 1987x._
-   - Marshall "Martin Golub/Dookie Mod" (by Misery Party / julio)
-     - _Derived from JCM800 2203 / JMP Superlead 100w._
    - Marshall 4140 Club & Country
    - Marshall 6100 30th Anniversary
    - Marshall JCM600
@@ -117,6 +115,9 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
  - ### Removed
    - Dan Armstrong Orange Squeezer
      - LiveSPICE does not seem to support circuits that consist of compression and other forms of amplitude modulation.
+   - Marshall "Martin Golub/Dookie Mod" (by Misery Party / julio)
+     - _Derived from JCM800 2203 / JMP Superlead 100w._
+     - As per julio's request, it is no longer available for download. Please contact him on Instagram (@walkingcontrad1ction) if you want to see the schematic.
    - Pignose 7-100
      - Put on hold as I am unfamiliar with transformer components for the circuit to work as intended.
 
