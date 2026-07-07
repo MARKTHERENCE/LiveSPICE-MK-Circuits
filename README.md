@@ -7,20 +7,12 @@ Schematic files drawn for use with [LiveSPICE]( https://github.com/dsharlet/Live
  - The amp models require more than one instance of LiveSPICE for the desired results, separated into preamp and poweramp sections. This is done to prevent heavy CPU usage.
    - **CAUTION:**
      - Even if most of these circuits do not return error messages when tested, too much input gain will result in Simulation Diverged errors, depending on your overdrive/distortion/booster/etc. effector of choice. Amp and pedal circuits that have this issue will be noted in the circuit list with workarounds.
-     - Other preamps _need_ to be loud to push their matching poweramp circuit. This will be noted in the circuit list.
-   - For real-time usage, the following settings are:
-     - Oversampling at 1x.
-     - Number of Iterations:
-       - 16 _minimum_ for preamps.
-       - 32 _minimum_ for overdrive/distortion circuits.
-       - Number of Iterations around 1 to 8 for poweramps (generally.) Exceptions will be noted in the circuit list.
-         - These are more or less starting points. Your mileage may vary, so do experiement with whichever works best for you sound and performance-wise.
+   - The schematic files are no longer optimized. I have [created NAM captures of them instead]( https://www.tone3000.com/83ennui ) at the cost of component-level control over amp/pedal/etc. settings and such.
    - For REAPER users, LiveSPICE will run in parallel, so all instances of LiveSPICE will open the same circuit. To be able to use more than one circuit across multiple instances, do the following workaround:
      - `Add FX ⊳ Right-click on "VST3: LiveSPICE (mono) ⊳ Run as... ⊳ Dedicated process` 
  - Some of the circuits may be "preamp only" sections available due to the following reasons:
    - The referenced schematic does not include the diagram for the power amp section.
    - The power amp section is solid state-based.
- - There may be some circuits that are broken down into several parts, due to either unintended behaviors or CPU usage. For convenience, I will note which circuits this workaround applies to.
  - May not be a regular occurence, but circuits that use dual (or more) SP3T/SP4T/SP5T switches will not work in the VST version. To compensate, they are their own separate switch controls. Please match the switch positions accordingly.
 
 **_If any of these are the case, please refer to the schematic file for further details and instructions._**
@@ -29,6 +21,7 @@ Schematic files drawn for use with [LiveSPICE]( https://github.com/dsharlet/Live
 Circuits of various guitar/bass amps and FX pedals. This list may expand over time.
 
  - ## Pedals & Effectors
+   - AMT SS-11A and SS-11B Studio Preamps 
    - Andromeda Natural Overdrive
    - B.K. Butler Tube Driver ('79-80 "Garage" edition & bajaman's "Bias pot" mod)
      - 12AX7, 12AT7, and 12AU7 tube variations
@@ -56,18 +49,21 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
 
  - ## Guitar & Bass Amplifiers
    - Alamo Fury 2566
-     - Requires matching poweramp circuit for intended behavior and sound.
-     - Number of iterations for the poweramp circuit at 16 _minimum_.
    - Ampeg VH140-C
+   - Bogner/Hafler Triple Giant preamp
    - Carlsbro Stingray Lead 65/100
    - Ceriatone Marshall Plexi Super Lead "Dookie Mod"
    - Crate Stealth GT50-H
    - Diezel VH4*
-     - _These are alleged, as VH4's are known to vary extensively. These circuits are bits and pieces that I could pick up from the source mentioned in the schematic files._
+     - _These are alleged, as VH4's are known to vary extensively. These circuits are bits and pieces that I could pick up from the sources mentioned in the schematic files._
    - Fender Metalhead MH-500
    - Fender Roc Pro 1000
-   - "Fortin Cali Mod" (assumed to be incorrect
+   - "Fortin Cali Mod" (assumed to be incorrect)
+   - Gibson Super Goldtone GA Series
    - HH V/S Musician
+   - Hiwatt DR103
+   - Hiwatt DR201
+   - Kitty Hawk Quattro preamp
    - Lab Series L5
    - Laney AOR Series II
    - Laney Klipp 60 & 100
@@ -79,32 +75,25 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Marshall 6100 30th Anniversary
    - Marshall JCM600
    - Marshall Silver Jubilee 2550/2555
+   - Marshall SL5
    - Marshall Valvestate 8100
    - MESA/Boogie Mark I
-     - _This circuit seems to be ever-changing as each model may have other features not present from others. I omitted the Graphic EQ/Gain Boost circuits for this one._
-     - Should you want the Graphic EQ feature, use an external EQ plug-in (i.e. ReaEQ) to substitute as the Graphic EQ section of the amp. The following frequencies and bandwidth are:
-       - 87.61Hz / Q = 1.171 (Low shelf)
-       - 371.7Hz / Q = 1.938 (Band)
-       - 723.4Hz / Q = 2.128 (Band)
-       - 1576Hz / Q = 0.6733 (Band)
-       - 4823Hz / Q = 1.000 (High shelf)
-         - _Real frequencies and bandwidth are measured by [gugabrandao in the The Boogie Board forums]( https://boogieforum.com/threads/mesa-boogie-graphic-eq-real-frequencies.69355/ )._
    - MESA/Boogie Nomad 100
-     - *Graphic EQ frequencies and bandwidth are specified in the Mark I notes.*
+     - 5-band graphic EQ circuit currently missing.
    - MESA/Boogie Stiletto Stage II Deuce
    - Park 1210 Rock Head
      - Poweramp section is work-in-progress.
+   - Paul P's "Bodie" Bogen CHB-35A amp conversion
    - Peavey Decade preamp section
+   - Randall BMF
+   - Randall RGT100
    - Roland DAC15
    - Selmer Treble 'n Bass 50w MKII
-     - Poweramp section is work-in-progress.
+   - Sunn Model T
+   - Trainwreck Liverpool
    - Tube Works MosValve RT-2100
    - Vox AC30C2
-     - Poweramp section is work-in-progress.
    - Vox UL730
-     - Requires matching poweramp circuit for intended behavior and sound.
-       - *The poweramp circuit is fed with 25V at the input signal for the intended gain/distortion characteristic of the amp.*
-     - Number of iterations for the poweramp circuit at 16 _minimum_.
    - WEM Dominator 1965
      - Requires matching poweramp circuit for intended behavior and sound.
      - Number of iterations for the poweramp circuit at 16 _minimum_.
