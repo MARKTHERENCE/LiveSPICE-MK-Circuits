@@ -79,7 +79,6 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Marshall Valvestate 8100
    - MESA/Boogie Mark I
    - MESA/Boogie Nomad 100
-     - 5-band graphic EQ circuit currently missing.
    - MESA/Boogie Stiletto Stage II Deuce
    - Park 1210 Rock Head
      - Poweramp section is work-in-progress.
