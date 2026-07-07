@@ -56,6 +56,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Crate Stealth GT50-H
    - Diezel VH4*
      - _These are alleged, as VH4's are known to vary extensively. These circuits are bits and pieces that I could pick up from the sources mentioned in the schematic files._
+   - Fender Machete
    - Fender Metalhead MH-500
    - Fender Roc Pro 1000
    - "Fortin Cali Mod" (assumed to be incorrect)
