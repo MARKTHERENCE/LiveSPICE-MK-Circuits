@@ -70,6 +70,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Laney Klipp 60 & 100
    - Laney LV300
    - Legend Rock 'n Roll 50
+   - Line 6/Bogner Alchemist
    - Marshall "Jose Master Volume" mod (by Fusedbrain)
      - _Derived from 1987x._
    - Marshall 4140 Club & Country
