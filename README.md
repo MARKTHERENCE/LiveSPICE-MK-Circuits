@@ -50,6 +50,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
  - ## Guitar & Bass Amplifiers
    - Alamo Fury 2566
    - Ampeg VH140-C
+   - B-52 AT100
    - Bogner/Hafler Triple Giant preamp
    - Carlsbro Stingray Lead 65/100
    - Ceriatone Marshall Plexi Super Lead "Dookie Mod"
@@ -64,6 +65,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - HH V/S Musician
    - Hiwatt DR103
    - Hiwatt DR201
+   - Ibanez Thermion TN120
    - Kitty Hawk Quattro preamp
    - Lab Series L5
    - Laney AOR Series II
@@ -76,6 +78,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Marshall 4140 Club & Country
    - Marshall 6100 30th Anniversary
    - Marshall JCM600
+   - Marshall Lead 12
    - Marshall Silver Jubilee 2550/2555
    - Marshall SL5
    - Marshall Valvestate 8100
