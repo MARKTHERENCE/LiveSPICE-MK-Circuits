@@ -53,6 +53,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - B-52 AT100
    - Bogner/Hafler Triple Giant preamp
    - Carlsbro Stingray Lead 65/100
+   - Carvin VL300 Legacy 3
    - Ceriatone Marshall Plexi Super Lead "Dookie Mod"
    - Crate Stealth GT50-H
    - Diezel VH4*
