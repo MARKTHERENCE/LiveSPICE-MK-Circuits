@@ -87,6 +87,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Marshall 4140 Club & Country
    - Marshall 6100 30th Anniversary
    - Marshall JCM600
+   - Marshall JCM900 9100
    - Marshall Lead 12
    - Marshall MA100
    - Marshall Silver Jubilee 2550/2555
