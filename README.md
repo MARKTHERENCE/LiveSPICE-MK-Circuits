@@ -51,6 +51,14 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Alamo Fury 2566
    - Ampeg VH140-C
    - B-52 AT100
+   - Bogner Ecstasy "83K Mod"
+     - Essentially the 101B circuit with some of the following additions/changes:
+       - KT88 power tubes
+       - Deep switch for the Clean channel, taken from the Bogner Alchemist
+       - Additional Crunch channel (Clean channel with an extra tube stage, taken from the Bogner Triple Giant)
+       - Mid Shift for the Red and Blue channels, taken from the Bogner Alchemist
+       - Presence control is exclusive to the Red and Blue channels, similar to the 104 model
+       - Depth is an approximation of the Excursion controls from the 101A/B models
    - Bogner/Hafler Triple Giant preamp
    - Carlsbro Stingray Lead 65/100
    - Carvin VL300 Legacy 3
