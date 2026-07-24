@@ -96,6 +96,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - MESA/Boogie Mark I
    - MESA/Boogie Nomad 100
    - MESA/Boogie Stiletto Stage II Deuce
+   - Orange Thunderverb 50
    - Park 1210 Rock Head
      - Poweramp section is work-in-progress.
    - Paul P's "Bodie" Bogen CHB-35A amp conversion
