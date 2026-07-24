@@ -96,6 +96,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - MESA/Boogie Mark I
    - MESA/Boogie Nomad 100
    - MESA/Boogie Stiletto Stage II Deuce
+   - Orange Rockerverb 50
    - Orange Thunderverb 50
    - Park 1210 Rock Head
      - Poweramp section is work-in-progress.
@@ -130,6 +131,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
  - [Emil Rohbe]( https://www.youtube.com/@Rohbemusic ) for showcasing LiveSPICE a few years back.
  - [Ed S]( https://www.youtube.com/@eds4754/ ) for some of his demos of relatively obscure amps as inspiration.
  - [Misery Party]( https://www.youtube.com/@miseryparty3726 ) / julio ([@walkingcontrad1ction]( https://www.instagram.com/walkingcontrad1ction/ ) on Instagram) for his accurate schematic of the Martin Golub/Dookie mod.
+ - [@sdleffler]( https://github.com/sdleffler ) for providing the schematics for the Orange Thunderverb 50w.
 
 ## Sound Demos
  - [Boss BD-2 Blues Driver (emy's Op-Amp Variant)]( https://youtu.be/5Iytw2b1FHE ) by me.
