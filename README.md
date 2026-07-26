@@ -69,6 +69,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Duncan DDS-2250V
    - Fender Machete
    - Fender Metalhead MH-500
+   - Fender Princeton 6G2
    - Fender Roc Pro 1000
    - "Fortin Cali Mod" (assumed to be incorrect)
    - Gibson Super Goldtone GA Series
