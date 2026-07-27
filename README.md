@@ -66,6 +66,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Crate Stealth GT50-H
    - Diezel VH4*
      - _These are alleged, as VH4's are known to vary extensively. These circuits are bits and pieces that I could pick up from the sources mentioned in the schematic files._
+   - Duncan Blues 112
    - Duncan DDS-2250V
    - Fender Machete
    - Fender Metalhead MH-500
