@@ -115,11 +115,8 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Vox AC30C2
    - Vox UL730
    - WEM Dominator 1965
-     - Requires matching poweramp circuit for intended behavior and sound.
-     - Number of iterations for the poweramp circuit at 16 _minimum_.
    - WEM Dominator Mk III
-     - Requires matching poweramp circuit for intended behavior and sound.
-     - Number of iterations for the poweramp circuit at 16 _minimum_.
+   - Yamaha T100
 ---
  - ### Removed
    - Dan Armstrong Orange Squeezer
