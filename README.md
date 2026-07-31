@@ -107,6 +107,8 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
      - Poweramp section is work-in-progress.
    - Paul P's "Bodie" Bogen CHB-35A amp conversion
    - Peavey Decade preamp section
+   - Peavey JSX Joe Satriani
+   - Peavey XXX
    - Randall BMF
    - Randall RGT100
    - Roland DAC15
