@@ -83,6 +83,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Kitty Hawk Quattro preamp
    - Lab Series L5
    - Laney AOR Series II
+   - Laney Ironheart 120H
    - Laney Klipp 60 & 100
    - Laney LV300
    - Legend Rock 'n Roll 50
