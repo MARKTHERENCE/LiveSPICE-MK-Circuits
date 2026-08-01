@@ -63,6 +63,8 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Carlsbro Stingray Lead 65/100
    - Carvin VL300 Legacy 3
    - Ceriatone Marshall Plexi Super Lead "Dookie Mod"
+   - Cornford MK50 II
+   - Cornford RK100
    - Crate Stealth GT50-H
    - Diezel VH4*
      - _These are alleged, as VH4's are known to vary extensively. These circuits are bits and pieces that I could pick up from the sources mentioned in the schematic files._
