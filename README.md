@@ -86,6 +86,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Laney Ironheart 120H
    - Laney Klipp 60 & 100
    - Laney LV300
+   - Laney VH100R
    - Legend Rock 'n Roll 50
    - Line 6/Bogner Alchemist
    - Marshall "Jose Master Volume" mod (by Fusedbrain)
