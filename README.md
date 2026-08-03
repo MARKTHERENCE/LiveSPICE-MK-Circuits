@@ -104,7 +104,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Marshall Valvestate 8100
    - MESA/Boogie Mark I
    - MESA/Boogie Nomad 100
-   - MESA/Boogie Road King
+   - MESA/Boogie Road King Series I and II
    - MESA/Boogie Stiletto Stage II Deuce
    - Orange Rockerverb 50
    - Orange Thunderverb 50
