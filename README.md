@@ -102,6 +102,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Marshall Silver Jubilee 2550/2555
    - Marshall SL5
    - Marshall Valvestate 8100
+   - MESA/Boogie Lone Star & Lone Star Special
    - MESA/Boogie Mark I
    - MESA/Boogie Nomad 100
    - MESA/Boogie Road King Series I and II
