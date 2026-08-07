@@ -89,8 +89,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Laney VH100R
    - Legend Rock 'n Roll 50
    - Line 6/Bogner Alchemist
-   - Marshall "Jose Master Volume" mod (by Fusedbrain)
-     - _Derived from 1987x._
+   - Marshall 1987x Jose Style Mod
    - Marshall 4140 Club & Country
    - Marshall 6100 30th Anniversary
    - Marshall JCM600
