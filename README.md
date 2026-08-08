@@ -74,7 +74,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Fender Metalhead MH-500
    - Fender Princeton 6G2
    - Fender Roc Pro 1000
-   - "Fortin Cali Mod" (assumed to be incorrect)
+   - "Fortin Cali Mod" (assumed to be incorrect. Similar to a Ceriatone Chuppa)
    - Gibson Super Goldtone GA Series
    - HH V/S Musician
    - Hiwatt DR103
@@ -90,6 +90,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Legend Rock 'n Roll 50
    - Line 6/Bogner Alchemist
    - Marshall 1987x Jose Style Mod
+     - Based on [fusedbrain's schematic diagram]( https://www.rig-talk.com/forum/threads/schematic-for-jose-build.201708/page-2#post-2246543 ).
    - Marshall 4140 Club & Country
    - Marshall 6100 30th Anniversary
    - Marshall JCM600
