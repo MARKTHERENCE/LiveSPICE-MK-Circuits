@@ -108,7 +108,9 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - MESA/Boogie Road King Series I and II
    - MESA/Boogie Stiletto Stage II Deuce
    - Mike Morin Preamp
+   - Orange AD200B MK III
    - Orange Rockerverb 50
+   - Orange Terror Bass
    - Orange Thunderverb 50
    - Park 1210 Rock Head
      - Poweramp section is work-in-progress.
