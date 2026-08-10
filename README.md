@@ -76,6 +76,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Fender Roc Pro 1000
    - "Fortin Cali Mod" (assumed to be incorrect. Similar to a Ceriatone Chuppa)
    - Gibson Super Goldtone GA Series
+   - Groove Tubes Trio
    - HH V/S Musician
    - Hiwatt DR103
    - Hiwatt DR201
