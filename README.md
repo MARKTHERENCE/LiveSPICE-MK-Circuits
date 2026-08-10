@@ -120,6 +120,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Peavey XXX
    - Randall BMF
    - Randall RGT100
+   - Reverend Kingsnake 20/60
    - Roland DAC15
    - Selmer Treble 'n Bass 50w MKII
    - Sunn Model T
