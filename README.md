@@ -89,7 +89,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Laney VH100R
    - Legend Rock 'n Roll 50
    - Line 6/Bogner Alchemist
-   - Marshall 1987x Jose Style Mod
+   - Marshall 1987x with Jose Mod
      - Based on [fusedbrain's schematic diagram]( https://www.rig-talk.com/forum/threads/schematic-for-jose-build.201708/page-2#post-2246543 ).
    - Marshall 4140 Club & Country
    - Marshall 6100 30th Anniversary
