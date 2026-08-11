@@ -75,7 +75,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Fender Princeton 6G2
    - Fender Roc Pro 1000
    - "Fortin Cali Mod" (assumed to be incorrect. Similar to a Ceriatone Chuppa)
-   - Framus Cobra
+   - Framus Cobra v1 & v2
    - Gibson Super Goldtone GA Series
    - Groove Tubes Trio
    - HH V/S Musician
