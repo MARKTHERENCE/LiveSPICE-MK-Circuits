@@ -121,6 +121,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Peavey JSX Joe Satriani
    - Peavey XXX
    - Randall BMF
+   - Randall RG100
    - Randall RGT100
    - Reverend Kingsnake 20/60
    - Roland DAC15
