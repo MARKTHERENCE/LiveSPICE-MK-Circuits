@@ -127,6 +127,8 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Roland DAC15
    - Selmer Treble 'n Bass 50w MKII
    - Sunn Model T
+   - Tangerine
+     - My own "design". It's essentially my take on the Orange Rockerverb as a solid state preamp with FET stages, similar to the Randall RG100 being a FET-based Jose modded Marshall.
    - Trainwreck Liverpool
    - Tube Works MosValve RT-2100
    - Vox AC30C2
