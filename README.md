@@ -101,6 +101,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
      - Based on [fusedbrain's schematic diagram]( https://www.rig-talk.com/forum/threads/schematic-for-jose-build.201708/page-2#post-2246543 ).
    - Marshall 4140 Club & Country
    - Marshall 6100 30th Anniversary
+   - Marshall Artist 3203
    - Marshall JCM600
    - Marshall JCM900 2100
    - Marshall JVM410H
