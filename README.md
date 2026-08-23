@@ -81,6 +81,9 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Fender "Blackface" Bassman AB165
    - Fender "Blackface" Vibroverb AA763
    - Fender "Blackface" Vibroverb AB763
+   - Fender "Blonde Brownface" Bassman 6G6
+   - Fender "Blonde Brownface" Bassman 6G6A
+   - Fender "Blonde Brownface" Bassman 6G6B
    - Fender "Brownface" Vibroverb 6G16
    - Fender Machete
    - Fender Metalhead MH-500
