@@ -132,7 +132,6 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Orange Terror Bass
    - Orange Thunderverb 50
    - Park 1210 Rock Head
-     - Poweramp section is work-in-progress.
    - Paul P's "Bodie" Bogen CHB-35A amp conversion
    - Peavey Decade preamp section
    - Peavey JSX Joe Satriani
