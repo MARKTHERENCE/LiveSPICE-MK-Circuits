@@ -76,6 +76,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
      - _These are alleged, as VH4's are known to vary extensively. These circuits are bits and pieces that I could pick up from the sources mentioned in the schematic files._
    - Duncan Blues 112
    - Duncan DDS-2250V
+   - EVH 5150 III 100S Stealth
    - Fender "Blackface" Bassman AA165
    - Fender "Blackface" Bassman AA864
    - Fender "Blackface" Bassman AB165
