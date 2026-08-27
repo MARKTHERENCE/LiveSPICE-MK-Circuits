@@ -143,6 +143,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Reverend Kingsnake 20/60
    - Roland DAC15
    - Selmer Treble 'n Bass 50w MKII
+   - Standel 25L15
    - Sunn Model T
    - Tangerine
      - My own "design". It's essentially my take on the Orange Rockerverb + one of the Thunderverb channels as a solid state preamp with FET stages, similar to the Randall RG100 being a FET-based Jose modded Marshall.
