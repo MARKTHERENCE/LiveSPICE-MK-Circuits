@@ -114,6 +114,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Marshall Artist 3203
    - Marshall JCM600
    - Marshall JCM900 2100
+   - Marshall JMP Super Lead 100w with +SE3 Crunch & Lead mods
    - Marshall JVM410H
    - Marshall JVM410HJS Joe Satriani
    - Marshall Lead 12
@@ -160,9 +161,6 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
  - ### Removed
    - Dan Armstrong Orange Squeezer
      - LiveSPICE does not seem to support circuits that consist of compression and other forms of amplitude modulation.
-   - Marshall "Martin Golub/Dookie Mod" (by Misery Party / julio)
-     - _Derived from JCM800 2203 / JMP Superlead 100w._
-     - As per julio's request, it is no longer available for download. Please contact him on Instagram (@walkingcontrad1ction) if you want to see the schematic.
    - Pignose 7-100
      - Put on hold as I am unfamiliar with transformer components for the circuit to work as intended.
 
