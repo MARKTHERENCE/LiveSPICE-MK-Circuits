@@ -146,6 +146,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Reverend Kingsnake 20/60
    - Roland DAC15
    - Selmer Treble 'n Bass 50w MKII
+   - Silvertone 1484
    - Standel 25L15
    - Sunn Model T
    - Tangerine
