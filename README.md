@@ -130,6 +130,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Mike Morin Preamp
    - Music Man HD-130
    - Orange AD200B MK III
+   - Orange OR120 (1974)
    - Orange Rockerverb 50
    - Orange Terror Bass
    - Orange Thunderverb 50
