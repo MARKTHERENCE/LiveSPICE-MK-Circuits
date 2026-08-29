@@ -119,6 +119,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Marshall JVM410HJS Joe Satriani
    - Marshall Lead 12
    - Marshall MA100
+   - Marshall MG15CDR/DFX
    - Marshall Silver Jubilee 2550/2555
    - Marshall SL5
    - Marshall Valvestate 8100
