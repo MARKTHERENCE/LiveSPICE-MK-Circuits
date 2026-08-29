@@ -145,7 +145,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Randall RG100
    - Randall RGT100
    - Reverend Kingsnake 20/60
-   - Rivera Knucklehead M60/M100
+   - Rivera Knucklehead 100
    - Roland DAC15
    - Selmer Treble 'n Bass 50w MKII
    - Silvertone 1484
