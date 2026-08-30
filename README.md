@@ -71,6 +71,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Ceriatone Marshall Plexi Super Lead "Dookie Mod"
    - Cornford MK50 II
    - Cornford RK100
+   - Crate Shockwave GT3500H
    - Crate Stealth GT50-H
    - Diezel VH4*
      - _These are alleged, as VH4's are known to vary extensively. These circuits are bits and pieces that I could pick up from the sources mentioned in the schematic files._
