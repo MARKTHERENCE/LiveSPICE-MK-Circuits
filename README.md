@@ -43,10 +43,12 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Furman PQ-3 Preamp/Parametric Equalizer
    - Ibanez Jemini Distortion
    - Ibanez Tube Screamer TS-10
+   - Jordan Boss Tone Version 1, 2, and 3
    - Maxon MB-10/Ibanez No.85 Bass Booster
    - Maxon MB-20/Ibanez No.86 Power Booster
    - Maxon MB-30/Ibanez No.87 Treble Booster
    - Maxon MB-40/Ibanez No.88 Distortion Booster
+   - MSA Pedal Steel Fuzz
    - MXR-126 Flanger/Doubler preamp
    - MXR Distortion III
    - Nobels ODS-1 Overdrive
