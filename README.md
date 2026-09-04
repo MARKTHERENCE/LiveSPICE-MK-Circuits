@@ -146,6 +146,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Peavey Bandit with Transtube Technology (2006 - Current)
    - Peavey Decade
    - Peavey JSX Joe Satriani
+   - Peavey Solo Series Bandit 112 (Early and Late 1989)
    - Peavey Transtube Series Bandit 112 (1995 - 1999)
    - Peavey Transtube Series II Bandit 112 (2000 - 2005)
    - Peavey XXX
