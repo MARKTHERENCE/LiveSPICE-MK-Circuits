@@ -1,0 +1,603 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schematic Name="X1" PartNumber="">
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-750,0">
+    <Component _Type="Circuit.Input, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" V0dBFS="1 V" Name="V1" Description="Ideal voltage source representing an input port." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-750,20" B="-750,25" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-750,25">
+    <Component _Type="Circuit.Ground, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" WireName="GND" Name="GND1" Description="Nodes with the same name are connected as if they were connected by a continuous wire." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="-725,-25">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="22 kΩ" Name="R1" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-750,-25" B="-750,-20" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-750,-25" B="-745,-25" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-1" Flip="true" Position="-675,-25">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="100 nF" Name="C1" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-675,25">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="100 pF" Name="C2" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-2" Flip="true" Position="-625,25">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="220 kΩ" Name="R2" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-705,-25" B="-695,-25" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-655,-25" B="-650,-25" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-675,0" B="-675,5" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-675,45" B="-675,50" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-675,50" B="-625,50" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-625,45" B="-625,50" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-650,50" B="-650,55" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-650,55">
+    <Component _Type="Circuit.Ground, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" WireName="GND" Name="GND2" Description="Nodes with the same name are connected as if they were connected by a continuous wire." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="true" Position="-550,-50">
+    <Component _Type="Circuit.IdealOpAmp, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Name="X1" Description="Ideal op-amp." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="-525,-25">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="100 pF" Name="C3" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="-575,0">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="4.7 kΩ" Name="R3" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-505,-25" B="-500,-25" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-600,-40" B="-570,-40" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-600,0" B="-595,0" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-600,-25" B="-545,-25" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-555,0" B="-500,0" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-1" Flip="true" Position="-475,-50">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="2.2 μF" Name="C4" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="-425,-50">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="2.7 kΩ" Name="R4" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="2" Flip="false" Position="-450,-25">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="22 kΩ" Name="R5" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-500,-25" B="-500,0" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-455,-50" B="-445,-50" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-450,-45" B="-450,-50" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-450,0" B="-450,-5" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-450,0">
+    <Component _Type="Circuit.Ground, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" WireName="GND" Name="GND3" Description="Nodes with the same name are connected as if they were connected by a continuous wire." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-600,-25" B="-600,0" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-625,0" B="-625,5" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-675,0" B="-650,0" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-650,0" B="-625,0" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="-375,-50">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="100 nF" Name="C7" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-2" Flip="false" Position="-350,-75">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="47 kΩ" Name="R9" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-350,-55" B="-350,-50" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-350,-100" B="-350,-95" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-2" Flip="false" Position="-350,-100">
+    <Component _Type="Circuit.Ground, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" WireName="GND" Name="GND6" Description="Nodes with the same name are connected as if they were connected by a continuous wire." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="true" Position="-300,-50">
+    <Component _Type="Circuit.IdealOpAmp, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Name="X2" Description="Ideal op-amp." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-325,-60" B="-325,-50" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-325,-60" B="-320,-60" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-1" Flip="true" Position="-275,-15">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="100 pF" Name="C8" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="-325,25">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="4.7 kΩ" Name="R10" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-350,25" B="-345,25" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="-275,25">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="3.3 kΩ" Name="R11" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-305,25" B="-295,25" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-355,-50" B="-350,-50" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-350,-50" B="-325,-50" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-350,-40" B="-320,-40" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-255,25" B="-250,25" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-350,-15" B="-295,-15" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-255,-15" B="-250,-15" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-300,75">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="68 nF" Name="C9" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-300,125">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="4.7 kΩ" Name="R12" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-350,50">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="22 μF" Name="C10" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-350,100">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="1 kΩ" Name="R13" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-350,-40" B="-350,-15" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-350,70" B="-350,80" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-350,120" B="-350,125" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-350,125">
+    <Component _Type="Circuit.Ground, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" WireName="GND" Name="GND7" Description="Nodes with the same name are connected as if they were connected by a continuous wire." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-300,95" B="-300,105" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-300,145" B="-300,150" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-300,150">
+    <Component _Type="Circuit.Ground, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" WireName="GND" Name="GND8" Description="Nodes with the same name are connected as if they were connected by a continuous wire." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-350,-15" B="-350,25" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-350,25" B="-350,30" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-300,25" B="-300,55" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-250,-50" B="-250,-15" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-250,-15" B="-250,25" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-5" Flip="true" Position="-675,250">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="100 nF" Name="C17" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-6" Flip="false" Position="-650,275">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="470 kΩ" Name="R17" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-650,295" B="-650,300" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-650,300">
+    <Component _Type="Circuit.Ground, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" WireName="GND" Name="GND11" Description="Nodes with the same name are connected as if they were connected by a continuous wire." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-650,255" B="-650,250" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-575,240" B="-575,250" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-575,240" B="-570,240" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="-575,300">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="100 pF" Name="C18" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="-525,325">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="470 kΩ" Name="R18" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-600,260" B="-570,260" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-505,325" B="-500,325" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-530,250" B="-500,250" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-530,-50" B="-500,-50" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-500,-50" B="-495,-50" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-405,-50" B="-395,-50" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-280,-50" B="-250,-50" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-2" Flip="true" Position="-600,400">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="1 μF" Name="C5" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-2" Flip="true" Position="-600,450">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="100 Ω" Name="R6" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-225,125">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="22 kΩ" Name="R7" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-600,470" B="-600,475" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-600,420" B="-600,430" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-650,-60" B="-650,-25" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-650,-25" B="-650,0" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-650,-60" B="-570,-60" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-2" Flip="true" Position="-500,350">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="2.2 μF" Name="C6" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-550,325" B="-550,375" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-550,375" B="-545,375" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-500,370" B="-500,375" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-500,375" B="-500,400" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-525,400" B="-500,400" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-525,395" B="-525,400" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-655,250" B="-650,250" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-650,250" B="-575,250" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-1" Flip="true" Position="-475,400">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="2.2 μF" Name="C11" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-505,375" B="-500,375" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-500,400" B="-495,400" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-2" Flip="true" Position="-450,425">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="22 kΩ" Name="R8" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-450,400" B="-450,405" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-450,445" B="-450,450" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-450,450">
+    <Component _Type="Circuit.Ground, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" WireName="GND" Name="GND5" Description="Nodes with the same name are connected as if they were connected by a continuous wire." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-3" Flip="false" Position="-425,400">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="2.7 kΩ" Name="R14" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-455,400" B="-450,400" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-450,400" B="-445,400" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-2" Flip="false" Position="-425,475">
+    <Component _Type="Circuit.Diode, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" IS="2.52 nA" n="1.752" Type="Diode" Name="D1" PartNumber="1N4148" Description="" />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-4" Flip="false" Position="-375,475">
+    <Component _Type="Circuit.Diode, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" IS="2.52 nA" n="1.752" Type="Diode" Name="D2" PartNumber="1N4148" Description="" />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-400,400" B="-400,450" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-425,450" B="-425,455" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-425,450" B="-400,450" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-400,450" B="-375,450" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-375,450" B="-375,455" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-425,495" B="-425,500" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-425,500" B="-375,500" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-375,495" B="-375,500" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-400,500" B="-400,505" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-400,505">
+    <Component _Type="Circuit.Ground, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" WireName="GND" Name="GND9" Description="Nodes with the same name are connected as if they were connected by a continuous wire." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-350,425">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="1 nF" Name="C12" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-350,450">
+    <Component _Type="Circuit.Ground, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" WireName="GND" Name="GND10" Description="Nodes with the same name are connected as if they were connected by a continuous wire." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-350,445" B="-350,450" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-350,400" B="-350,405" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-3" Flip="false" Position="-325,400">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="2.7 kΩ" Name="R15" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-305,400" B="-300,400" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-300,400" B="-300,430" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-1" Flip="true" Position="-250,450">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="2.2 μF" Name="C13" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-2" Flip="true" Position="-225,475">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="22 kΩ" Name="R16" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-225,495" B="-225,500" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-225,500">
+    <Component _Type="Circuit.Ground, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" WireName="GND" Name="GND15" Description="Nodes with the same name are connected as if they were connected by a continuous wire." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-230,450" B="-225,450" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-225,450" B="-220,450" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-280,450" B="-270,450" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="-200,450">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="47 kΩ" Name="R22" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="-200,400">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="100 nF" Name="C14" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-225,400" B="-225,450" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-225,450" B="-225,455" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-225,400" B="-220,400" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-180,400" B="-175,400" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="-150,450">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="10 kΩ" Name="R23" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-130,450" B="-125,450" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-125,475" B="-120,475" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-180,450" B="-175,450" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-175,450" B="-170,450" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="true" Position="0,425">
+    <Component _Type="Circuit.IdealOpAmp, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Name="X4" Description="Ideal op-amp." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="25,475">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="100 pF" Name="C15" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="-25,525">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="10 kΩ" Name="R24" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="25,525">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="47 kΩ" Name="R25" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="50,550">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="100 nF" Name="C16" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-5,525" B="5,525" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="0,575" B="50,575" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="50,570" B="50,575" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="45,475" B="50,475" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="45,525" B="50,525" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-50,525" B="-45,525" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-50,435" B="-50,525" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-50,435" B="-20,435" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-50,475" B="5,475" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-100,525">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="15 nF" Name="C21" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-100,575">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="2.7 kΩ" Name="R26" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-1" Flip="true" Position="-225,600">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="2.2 μF" Name="C22" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-100,595" B="-100,600" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-100,600" B="-100,605" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-175,500">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="2.7 kΩ" Name="R27" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-175,400" B="-175,450" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-175,450" B="-175,480" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-175,520" B="-175,625" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-175,625" B="-120,625" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-300,600" B="-245,600" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-100,545" B="-100,555" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-100,495" B="-100,505" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="-50,625">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="2.7 kΩ" Name="R28" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-80,625" B="-70,625" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-80,475" B="-50,475" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-125,450" B="-125,475" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-125,415" B="-20,415" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="50,475" B="50,525" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="50,525" B="50,530" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-30,625" B="0,625" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="0,525" B="0,575" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-1" Flip="true" Position="-75,200">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="15 nF" Name="C19" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-1" Flip="true" Position="-25,200">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="4.7 kΩ" Name="R19" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-55,200" B="-45,200" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-300,470" B="-300,600" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-300,600" B="-300,605" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-350,400" B="-345,400" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-405,400" B="-400,400" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-300,605">
+    <Component _Type="Circuit.Ground, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" WireName="GND" Name="GND14" Description="Nodes with the same name are connected as if they were connected by a continuous wire." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-400,400" B="-350,400" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-600,475" B="-600,480" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-600,480">
+    <Component _Type="Circuit.Ground, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" WireName="GND" Name="GND4" Description="Nodes with the same name are connected as if they were connected by a continuous wire." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-500,250" B="-500,325" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-500,325" B="-500,330" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-600,260" B="-600,325" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-600,325" B="-600,330" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-500,-50" B="-500,-25" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-600,-40" B="-600,-25" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-600,300" B="-595,300" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-555,300" B="-500,300" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-225,145" B="-225,150" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-225,150">
+    <Component _Type="Circuit.Ground, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" WireName="GND" Name="GND16" Description="Nodes with the same name are connected as if they were connected by a continuous wire." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-2" Flip="true" Position="-600,350">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="2.2 kΩ" Name="R29" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-300,100" B="-225,100" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-225,-50" B="-225,100" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-225,100" B="-225,105" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-600,370" B="-600,380" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-675,385" B="-670,385" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-675,365" B="-670,365" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-675,325" B="-675,365" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-550,325" B="-545,325" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-630,375" B="-600,375" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-675,325" B="-600,325" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-600,325" B="-550,325" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-125,415" B="-125,450" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="0,575" B="0,625" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="75,375">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="220 kΩ" Name="R20" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="125,375">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="22 kΩ" Name="R21" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="20,425" B="50,425" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="50,425" B="55,425" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="50,425" B="50,475" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="50,375" B="55,375" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="95,375" B="105,375" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="100,375" B="100,415" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="95,415" B="100,415" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="95,435" B="100,435" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-1" Flip="true" Position="100,350">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="220 kΩ" Name="R30" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="225,325">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="1 nF" Name="C20" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="50,375" B="50,425" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="50,350" B="80,350" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="50,325" B="50,350" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="50,350" B="50,375" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="150,475">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="100 nF" Name="C23" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-1" Flip="true" Position="175,375">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="2.2 μF" Name="C24" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="120,350" B="150,350" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="150,350" B="200,350" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="200,350" B="200,375" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="145,375" B="150,375" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="150,375" B="155,375" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="225,375">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="22 kΩ" Name="R31" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="50,325" B="205,325" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="245,325" B="250,325" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="250,325" B="250,375" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="245,375" B="250,375" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="195,375" B="200,375" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="200,375" B="205,375" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="225,525">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="3.3 nF" Name="C25" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="225,575">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="2.7 kΩ" Name="R32" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="150,525" B="205,525" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="245,525" B="250,525" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="250,525" B="250,575" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="150,525" B="150,575" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="150,575" B="155,575" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="195,575" B="205,575" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="-215,-50">
+    <Component _Type="Circuit.NamedWire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" WireName="SUPERSAT" Name="X5" Description="Nodes with the same name are connected as if they were connected by a continuous wire." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-250,-50" B="-225,-50" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-225,-50" B="-215,-50" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="true" Position="-710,250">
+    <Component _Type="Circuit.NamedWire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" WireName="SUPERSAT" Name="X6" Description="Nodes with the same name are connected as if they were connected by a continuous wire." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-710,250" B="-695,250" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-205,600" B="-100,600" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-100,600" B="175,600" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="400,425">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="1 nF" Name="C26" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-1" Flip="true" Position="400,475">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="220 kΩ" Name="R33" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-2" Flip="true" Position="325,450">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="22 kΩ" Name="R34" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-1" Flip="true" Position="350,525">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="2.2 μF" Name="C27" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-2" Flip="true" Position="375,550">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="100 nF" Name="C28" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="150,350" B="150,375" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="150,495" B="150,525" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="375,570" B="375,575" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="325,525" B="330,525" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="325,470" B="325,475" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="325,475" B="325,525" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="375,525" B="375,530" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="245,575" B="250,575" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="250,575" B="375,575" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-1" Flip="true" Position="400,525">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="22 kΩ" Name="R35" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-1" Flip="true" Position="450,525">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="220 kΩ" Name="R36" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="370,525" B="375,525" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="375,525" B="380,525" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="420,525" B="430,525" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="470,525" B="475,525" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="485,570" B="485,575" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="465,570" B="465,575" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="425,575" B="465,575" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="425,525" B="425,575" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="325,385" B="380,385" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="325,385" B="325,425" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="325,425" B="325,430" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="475,525" B="475,530" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="150,375" B="150,455" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="175,595" B="175,600" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="250,365" B="380,365" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-600,200" B="-600,260" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-600,200" B="-95,200" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-5,200" B="475,200" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="475,200" B="475,375" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="475,375" B="475,425" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="475,425" B="475,475" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="475,475" B="475,525" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="450,-25">
+    <Component _Type="Circuit.Speaker, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" V0dBFS="1 V" Impedance="∞ Ω" Name="S3" Description="Ideal speaker." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="450,-50" B="450,-45" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="450,-5" B="450,0" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="450,0">
+    <Component _Type="Circuit.Ground, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" WireName="GND" Name="GND13" Description="Nodes with the same name are connected as if they were connected by a continuous wire." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-1" Flip="true" Position="125,-50">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="2.2 μF" Name="C29" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-2" Flip="true" Position="150,-25">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="22 kΩ" Name="R37" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="175,-50">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="10 kΩ" Name="R38" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="145,-50" B="155,-50" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="150,-50" B="150,-45" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="150,-5" B="150,0" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="150,0">
+    <Component _Type="Circuit.Ground, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" WireName="GND" Name="GND12" Description="Nodes with the same name are connected as if they were connected by a continuous wire." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="275,-25">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="22 kΩ" Name="R39" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="225,0">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="10 kΩ" Name="R40" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="195,-50" B="225,-50" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="225,-60" B="225,-50" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="225,-60" B="230,-60" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="true" Position="200,-75">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="22 kΩ" Name="R41" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="200,-100" B="200,-95" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="200,-55" B="200,-50" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-2" Flip="false" Position="200,-100">
+    <Component _Type="Circuit.Ground, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" WireName="GND" Name="GND17" Description="Nodes with the same name are connected as if they were connected by a continuous wire." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="225,-40" B="230,-40" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="225,20" B="225,25" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="225,25">
+    <Component _Type="Circuit.Ground, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" WireName="GND" Name="GND18" Description="Nodes with the same name are connected as if they were connected by a continuous wire." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="225,-25" B="255,-25" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="270,-50" B="300,-50" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="295,-25" B="300,-25" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="325,-50">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="1 kΩ" Name="R42" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-1" Flip="true" Position="375,-50">
+    <Component _Type="Circuit.Capacitor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Capacitance="2.2 μF" Name="C30" Description="Standard capacitor component" />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-2" Flip="true" Position="400,-25">
+    <Component _Type="Circuit.Resistor, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="22 kΩ" Name="R43" Description="Standard resistor." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="300,-50" B="305,-50" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="345,-50" B="355,-50" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="395,-50" B="450,-50" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="400,-50" B="400,-45" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="400,-5" B="400,0" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="400,0">
+    <Component _Type="Circuit.Ground, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" WireName="GND" Name="GND19" Description="Nodes with the same name are connected as if they were connected by a continuous wire." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="485,375">
+    <Component _Type="Circuit.NamedWire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" WireName="OUT" Name="X9" Description="Nodes with the same name are connected as if they were connected by a continuous wire." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="420,375" B="475,375" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="475,375" B="485,375" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="true" Position="90,-50">
+    <Component _Type="Circuit.NamedWire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" WireName="OUT" Name="X10" Description="Nodes with the same name are connected as if they were connected by a continuous wire." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="90,-50" B="105,-50" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="true" Position="-550,250">
+    <Component _Type="Circuit.OpAmp, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rin="5 MΩ" Rout="100 Ω" Aol="300 k" GBP="3 MHz" Name="X3" PartNumber="4558" Description="Generic op-amp model. Model includes a single pole frequency response and saturation." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-550,225" B="-550,230" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="-550,270" B="-550,275" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-550,225">
+    <Component _Type="Circuit.Rail, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Voltage="-15 V" Name="V2" Description="Single terminal voltage source with the cathode implicitly connected to ground." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="true" Position="-550,275">
+    <Component _Type="Circuit.Rail, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Voltage="15 V" Name="V3" Description="Single terminal voltage source with the cathode implicitly connected to ground." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="420,475" B="475,475" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="325,475" B="380,475" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="325,425" B="380,425" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="420,425" B="475,425" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="true" Position="400,375">
+    <Component _Type="Circuit.IdealOpAmp, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Name="X7" Description="Ideal op-amp." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="true" Position="250,-50">
+    <Component _Type="Circuit.IdealOpAmp, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Name="X8" Description="Ideal op-amp." />
+  </Element>
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="300,-50" B="300,-25" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="225,-40" B="225,-25" />
+  <Element Type="Circuit.Wire, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" A="225,-25" B="225,-20" />
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-1" Flip="false" Position="-525,385">
+    <Component _Type="Circuit.Potentiometer, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="1 MΩ" Wipe="0.5" Sweep="Logarithmic" Group="" Name="SAT" Description="Represents a potentiometer. When Wipe is 0, the wiper is at the cathode." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="1" Flip="false" Position="-650,375">
+    <Component _Type="Circuit.SPDT, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Name="G" Position="0" Group="" Description="single pole double-throw switch." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-3" Flip="true" Position="75,425">
+    <Component _Type="Circuit.SPDT, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Name="S1" Position="0" Group="SH" Description="single pole double-throw switch." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-6" Flip="false" Position="475,550">
+    <Component _Type="Circuit.SPDT, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Name="S2" Position="0" Group="SH" Description="single pole double-throw switch." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="0" Flip="false" Position="-290,450">
+    <Component _Type="Circuit.Potentiometer, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="10 kΩ" Wipe="0.5" Sweep="Logarithmic" Group="" Name="POST" Description="Represents a potentiometer. When Wipe is 0, the wiper is at the cathode." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-3" Flip="true" Position="-100,615">
+    <Component _Type="Circuit.Potentiometer, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="20 kΩ" Wipe="0.5" Sweep="Linear" Group="" Name="BTM" Description="Represents a potentiometer. When Wipe is 0, the wiper is at the cathode." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-5" Flip="false" Position="175,585">
+    <Component _Type="Circuit.Potentiometer, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="20 kΩ" Wipe="0.5" Sweep="Linear" Group="" Name="BODY" Description="Represents a potentiometer. When Wipe is 0, the wiper is at the cathode." />
+  </Element>
+  <Element Type="Circuit.Symbol, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Rotation="-1" Flip="false" Position="-100,485">
+    <Component _Type="Circuit.Potentiometer, Circuit, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Resistance="10 kΩ" Wipe="0.5" Sweep="Linear" Group="" Name="EDGE" Description="Represents a potentiometer. When Wipe is 0, the wiper is at the cathode." />
+  </Element>
+</Schematic>
