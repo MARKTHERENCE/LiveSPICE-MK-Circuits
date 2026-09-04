@@ -143,8 +143,11 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Orange Thunderverb 50
    - Park 1210 Rock Head
    - Paul P's "Bodie" Bogen CHB-35A amp conversion
-   - Peavey Decade preamp section
+   - Peavey Bandit with Transtube Technology (2006 - Current)
+   - Peavey Decade
    - Peavey JSX Joe Satriani
+   - Peavey Transtube Series Bandit 112 (1995 - 1999)
+   - Peavey Transtube Series II Bandit 112 (2000 - 2005)
    - Peavey XXX
    - Randall BMF
    - Randall RG100
