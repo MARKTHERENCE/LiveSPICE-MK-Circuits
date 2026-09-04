@@ -149,6 +149,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Peavey Solo Series Bandit 112 (Early and Late 1989)
    - Peavey Transtube Series Bandit 112 (1995 - 1999)
    - Peavey Transtube Series II Bandit 112 (2000 - 2005)
+   - Peavey Windsor
    - Peavey XXX
    - Randall BMF
    - Randall RG100
