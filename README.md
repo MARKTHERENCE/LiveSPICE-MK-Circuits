@@ -44,6 +44,8 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Ibanez Jemini Distortion
    - Ibanez Tube Screamer TS-10
    - Jordan Boss Tone Version 1, 2, and 3
+   - K-AD1 Azusa Driver
+   - K-YD1 Yui Driver
    - Maxon MB-10/Ibanez No.85 Bass Booster
    - Maxon MB-20/Ibanez No.86 Power Booster
    - Maxon MB-30/Ibanez No.87 Treble Booster
