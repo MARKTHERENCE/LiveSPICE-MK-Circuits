@@ -175,6 +175,9 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - WEM Dominator 1965
    - WEM Dominator Mk III
    - Yamaha T100
+
+ - ## Other Amplifiers
+   - Fender PA-100
 ---
  - ### Removed
    - Dan Armstrong Orange Squeezer
