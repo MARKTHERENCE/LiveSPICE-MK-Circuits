@@ -164,6 +164,8 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Roland DAC15
    - Selmer Treble 'n Bass 50w MKII
    - Silvertone 1484
+   - Simms-Watts AP100
+   - Simms-Watts PA100
    - Sovtek MIG-50
    - Sovtek MIG-60
    - Sovtek MIG-100
