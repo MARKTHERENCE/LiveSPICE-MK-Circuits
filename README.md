@@ -123,6 +123,8 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Marshall Artist 3203
    - Marshall JCM600
    - Marshall JCM900 2100
+   - Marshall JCM900 4100
+   - Marshall JCM2000 DSL100
    - Marshall JMP 1959 Super Lead 100w (incl. Mk2)
    - Marshall JMP 1987 Lead 50w (incl. Mk2)
    - Marshall JMP Super Lead 100w with +SE3 Crunch & Lead mods
