@@ -178,7 +178,8 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Tangerine
      - My own "design". It's essentially my take on the Orange Rockerverb + one of the Thunderverb channels as a solid state preamp with FET stages, similar to the Randall RG100 being a FET-based Jose modded Marshall.
    - Trace Elliot Bonneville H100
-   - Train Elliot Speed Twin RH100
+   - Trace Elliot Speed Twin RH100
+   - Trace Elliot Trident H100
    - Trainwreck Liverpool
    - Tube Works MosValve RT-2100
    - Vox AC30C2
