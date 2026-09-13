@@ -106,6 +106,7 @@ Circuits of various guitar/bass amps and FX pedals. This list may expand over ti
    - Hiwatt DR103
    - Hiwatt DR201
    - Ibanez Thermion TN120
+   - Kitty Hawk Junior Series I
    - Kitty Hawk Quattro preamp
    - Lab Series L5
    - Laney AOR Series II
